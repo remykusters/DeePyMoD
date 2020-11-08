@@ -1,0 +1,27 @@
+[I 10:26:59.959 LabApp] JupyterLab extension loaded from /home/remy/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 10:26:59.959 LabApp] JupyterLab application directory is /home/remy/anaconda3/share/jupyter/lab
+[I 10:26:59.962 LabApp] Serving notebooks from local directory: /home/remy/Documents/DeePyMoD
+[I 10:26:59.962 LabApp] The Jupyter Notebook is running at:
+[I 10:26:59.962 LabApp] http://localhost:8889/?token=0afa60ddcf773a4598db15656bc8bd26cecbd291ef9d4633
+[I 10:26:59.962 LabApp]  or http://127.0.0.1:8889/?token=0afa60ddcf773a4598db15656bc8bd26cecbd291ef9d4633
+[I 10:26:59.962 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:26:59.969 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/remy/.local/share/jupyter/runtime/nbserver-2006-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=0afa60ddcf773a4598db15656bc8bd26cecbd291ef9d4633
+     or http://127.0.0.1:8889/?token=0afa60ddcf773a4598db15656bc8bd26cecbd291ef9d4633
+[W 10:32:34.184 LabApp] 404 GET /api/contents/Documents/working/DeePyMoD/paper/Advection_diffusion/AD_artificial/41_41_7.ipynb?content=0&1604568753014 (127.0.0.1): No such file or directory: Documents/working/DeePyMoD/paper/Advection_diffusion/AD_artificial/41_41_7.ipynb
+[W 10:32:34.184 LabApp] No such file or directory: Documents/working/DeePyMoD/paper/Advection_diffusion/AD_artificial/41_41_7.ipynb
+[W 10:32:34.185 LabApp] 404 GET /api/contents/Documents/working/DeePyMoD/paper/Advection_diffusion/AD_artificial/41_41_7.ipynb?content=0&1604568753014 (127.0.0.1) 2.67ms referer=http://localhost:8889/lab?
+TermSocket.open: 1
+[I 10:32:34.252 LabApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[I 10:32:34.372 LabApp] Build is up to date
+[W 10:32:34.880 LabApp] 404 GET /api/contents/Documents/working?1604568754285 (127.0.0.1): No such file or directory: Documents/working
+[W 10:32:34.880 LabApp] No such file or directory: Documents/working
+[W 10:32:34.880 LabApp] 404 GET /api/contents/Documents/working?1604568754285 (127.0.0.1) 1.09ms referer=http://localhost:8889/lab?
+Websocket closed
+[I 10:33:00.189 LabApp] Interrupted...
+[I 10:33:00.189 LabApp] Shutting down 0 kernels
