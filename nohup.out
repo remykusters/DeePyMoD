@@ -25,3 +25,2874 @@ TermSocket.open: Opened 1
 Websocket closed
 [I 10:33:00.189 LabApp] Interrupted...
 [I 10:33:00.189 LabApp] Shutting down 0 kernels
+[W 10:59:54.089 LabApp] Unrecognized alias: 'port', it will have no effect.
+[I 10:59:54.113 LabApp] Writing notebook server cookie secret to /home/remy/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 10:59:54.222 LabApp] The port 8888 is already in use, trying another port.
+[I 10:59:54.688 LabApp] JupyterLab extension loaded from /home/remy/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 10:59:54.688 LabApp] JupyterLab application directory is /home/remy/anaconda3/share/jupyter/lab
+[I 10:59:54.691 LabApp] Serving notebooks from local directory: /home/remy/Github/DeePyMoD_sensor
+[I 10:59:54.691 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 10:59:54.691 LabApp] http://localhost:8889/?token=6261c8d7ba550aeff87563ae94d6e0f9f527e5e82a014d1f
+[I 10:59:54.691 LabApp]  or http://127.0.0.1:8889/?token=6261c8d7ba550aeff87563ae94d6e0f9f527e5e82a014d1f
+[I 10:59:54.691 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:59:54.695 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/remy/.local/share/jupyter/runtime/nbserver-77867-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=6261c8d7ba550aeff87563ae94d6e0f9f527e5e82a014d1f
+     or http://127.0.0.1:8889/?token=6261c8d7ba550aeff87563ae94d6e0f9f527e5e82a014d1f
+[W 11:01:10.385 LabApp] Clearing invalid/expired login cookie username-localhost-8889
+[W 11:01:10.385 LabApp] Clearing invalid/expired login cookie username-localhost-8889
+[I 11:01:10.386 LabApp] 302 GET /lab? (127.0.0.1) 1.67ms
+[I 11:01:54.000 LabApp] The port 8889 is already in use, trying another port.
+[I 11:01:54.462 LabApp] JupyterLab extension loaded from /home/remy/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 11:01:54.462 LabApp] JupyterLab application directory is /home/remy/anaconda3/share/jupyter/lab
+[I 11:01:54.465 LabApp] Serving notebooks from local directory: /home/remy/Github/DeePyMoD_sensor
+[I 11:01:54.465 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 11:01:54.465 LabApp] http://localhost:8890/?token=4c79bab89d9d97d264d531adf8c33d33b51681f4e4c81f76
+[I 11:01:54.465 LabApp]  or http://127.0.0.1:8890/?token=4c79bab89d9d97d264d531adf8c33d33b51681f4e4c81f76
+[I 11:01:54.465 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:01:54.469 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/remy/.local/share/jupyter/runtime/nbserver-77992-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=4c79bab89d9d97d264d531adf8c33d33b51681f4e4c81f76
+     or http://127.0.0.1:8890/?token=4c79bab89d9d97d264d531adf8c33d33b51681f4e4c81f76
+[I 11:02:04.381 LabApp] 302 GET / (127.0.0.1) 0.45ms
+[I 11:02:04.489 LabApp] 302 GET /lab? (127.0.0.1) 0.63ms
+[I 11:02:24.674 LabApp] 302 GET /lab? (127.0.0.1) 0.62ms
+[I 11:03:05.394 LabApp] 302 GET / (127.0.0.1) 0.43ms
+[I 11:03:05.429 LabApp] 302 GET /lab? (127.0.0.1) 0.62ms
+[I 11:03:19.654 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 1.04ms
+[I 11:03:23.222 LabApp] Build is up to date
+[I 14:59:19.944 LabApp] Build is up to date
+[I 14:59:50.259 LabApp] Writing notebook-signing key to /home/remy/.local/share/jupyter/notebook_secret
+[W 14:59:50.259 LabApp] Notebook examples/PDE_Burgers.ipynb is not trusted
+[I 14:59:51.670 LabApp] Kernel started: 4c32912c-de32-49b3-9744-0c030f988f18, name: python3
+[I 15:01:50.817 LabApp] Saving file at /examples/PDE_Burgers.ipynb
+[W 15:01:50.817 LabApp] Notebook examples/PDE_Burgers.ipynb is not trusted
+[I 15:02:03.289 LabApp] Starting buffering for 4c32912c-de32-49b3-9744-0c030f988f18:01d48f23-3875-401c-8c13-5a4e66654656
+[I 15:02:07.081 LabApp] Kernel shutdown: 4c32912c-de32-49b3-9744-0c030f988f18
+[I 15:02:17.823 LabApp] Creating new directory in /paper
+[I 15:02:22.237 LabApp] Creating new notebook in /paper/Burgers
+[I 15:02:22.453 LabApp] Kernel started: 1eded93e-e007-4ed8-97ce-607d6166b96d, name: python3
+[I 15:04:22.399 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:06:22.460 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:08:23.469 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:10:24.451 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:12:05.741 LabApp] Kernel interrupted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[W 15:12:14.946 LabApp] delete /paper/Burgers/runs/Nov23_15-05-36_workstationgjnoisy002_nx_20_run_0
+[I 15:12:18.042 LabApp] Kernel restarted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 15:12:24.511 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:14:24.610 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:16:24.915 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:18:25.317 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:20:25.610 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:22:26.345 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:24:26.580 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:26:27.310 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:28:28.306 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:30:29.214 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:32:29.345 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:34:29.760 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:38:29.840 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:40:29.953 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[W 15:42:06.048 LabApp] delete /paper/Burgers/runs/Nov23_15-12-20_workstationgjnoisy002_nx_20_run_0
+[W 15:42:06.049 LabApp] delete /paper/Burgers/runs/Nov23_15-05-36_workstationgjnoisy002_nx_20_run_0checkpoint.pt
+[W 15:42:06.050 LabApp] delete /paper/Burgers/runs/Nov23_15-12-20_workstationgjnoisy002_nx_20_run_0checkpoint.pt
+[W 15:42:06.050 LabApp] delete /paper/Burgers/runs/Nov23_15-12-20_workstationgjnoisy002_nx_20_run_0model.pt
+[I 15:42:30.017 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:44:30.792 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:45:43.574 LabApp] Kernel interrupted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 15:45:53.865 LabApp] Kernel restarted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 15:46:32.528 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:48:33.137 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:50:34.160 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:52:34.916 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:54:35.636 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:56:36.321 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 15:58:06.958 LabApp] Kernel interrupted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 15:58:19.740 LabApp] Kernel restarted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 15:58:36.892 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:00:37.223 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:02:37.447 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:04:37.505 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:06:38.121 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:07:39.897 LabApp] Kernel interrupted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 16:08:38.180 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[W 16:08:38.527 LabApp] delete /paper/Burgers/test_large
+[W 16:08:38.567 LabApp] delete /paper/Burgers/test_large_full
+[W 16:08:38.570 LabApp] delete /paper/Burgers/test_large_full_wait
+[W 16:08:38.575 LabApp] delete /paper/Burgers/test_large_full_waitcheckpoint.pt
+[W 16:08:38.575 LabApp] delete /paper/Burgers/test_large_fullcheckpoint.pt
+[W 16:08:38.576 LabApp] delete /paper/Burgers/test_largecheckpoint.pt
+[I 16:10:38.364 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:12:38.538 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:14:39.534 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:16:39.840 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:18:40.212 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:20:41.216 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:22:41.788 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:24:41.939 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:26:42.918 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 16:28:43.856 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:27:08.690 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:29:08.972 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:31:09.973 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:33:10.222 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:35:10.954 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:37:11.421 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:39:11.691 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:41:11.946 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:43:12.892 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 18:45:13.157 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:24:48.304 LabApp] Kernel restarted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 19:25:20.470 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:27:20.944 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:29:21.357 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:31:21.938 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:31:29.939 LabApp] Kernel interrupted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 19:31:35.858 LabApp] Kernel restarted: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 19:33:22.147 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:35:23.057 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:37:23.339 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:39:24.210 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:41:25.209 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:51:26.305 LabApp] Saving file at /paper/Burgers/Untitled.ipynb
+[I 19:52:01.346 LabApp] Copying paper/Burgers/grid.ipynb to /paper/Burgers
+[W 19:52:18.406 LabApp] Notebook paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb is not trusted
+[I 19:52:19.849 LabApp] Kernel started: 63622c9a-76df-418e-9e99-ea17d6e2ae70, name: python3
+[I 19:52:34.258 LabApp] Kernel started: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49, name: python3
+[I 19:54:21.748 LabApp] Saving file at /paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb
+[W 19:54:21.749 LabApp] Notebook paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb is not trusted
+[I 19:54:35.083 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 19:56:35.412 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 19:58:35.787 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:00:36.683 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:02:37.245 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:04:38.184 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:06:38.462 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:08:38.731 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 20:10:39.469 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:00:50.456 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:02:50.785 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:04:51.816 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:06:52.075 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:08:52.715 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:10:52.940 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:12:53.805 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:14:55.118 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:16:56.372 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:18:57.801 LabApp] Saving file at /paper/Burgers/random.ipynb
+[W 21:23:24.418 LabApp] delete /paper/Burgers/runs/random
+[W 21:23:24.419 LabApp] delete /paper/Burgers/runs/test_large_full_wait
+[W 21:23:24.421 LabApp] delete /paper/Burgers/runs/test_large_wait_2
+[W 21:23:24.422 LabApp] delete /paper/Burgers/runs/test_large_wait_1
+[W 21:23:24.423 LabApp] delete /paper/Burgers/runs/random_600
+[W 21:23:24.423 LabApp] delete /paper/Burgers/runs/test_large_wait
+[W 21:23:24.425 LabApp] delete /paper/Burgers/runs/randommodel.pt
+[W 21:23:24.426 LabApp] delete /paper/Burgers/runs/test_large_full_waitcheckpoint.pt
+[W 21:23:24.441 LabApp] delete /paper/Burgers/runs/test_large_full_waitmodel.pt
+[W 21:23:24.442 LabApp] delete /paper/Burgers/runs/test_large_wait_1checkpoint.pt
+[W 21:23:24.443 LabApp] delete /paper/Burgers/runs/test_large_wait_1model.pt
+[W 21:23:24.449 LabApp] delete /paper/Burgers/runs/test_large_wait_2checkpoint.pt
+[W 21:23:24.450 LabApp] delete /paper/Burgers/runs/test_large_waitcheckpoint.pt
+[W 21:23:24.450 LabApp] delete /paper/Burgers/runs/random_600model.pt
+[W 21:23:24.457 LabApp] delete /paper/Burgers/runs/random_600checkpoint.pt
+[W 21:23:24.459 LabApp] delete /paper/Burgers/runs/test_large_waitmodel.pt
+[W 21:23:24.459 LabApp] delete /paper/Burgers/runs/randomcheckpoint.pt
+[I 21:24:59.225 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:26:59.458 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:29:00.213 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:31:00.564 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:33:01.195 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:35:01.431 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 21:37:01.750 LabApp] Saving file at /paper/Burgers/random.ipynb
+[W 21:40:20.092 LabApp] WebSocket ping timeout after 119995 ms.
+[W 21:40:22.782 LabApp] WebSocket ping timeout after 119931 ms.
+[I 21:40:25.093 LabApp] Starting buffering for 63622c9a-76df-418e-9e99-ea17d6e2ae70:b3b3f53a-8066-457e-a3d0-06b22cae8041
+[I 21:40:27.784 LabApp] Starting buffering for 1eded93e-e007-4ed8-97ce-607d6166b96d:0cd907a1-8d50-4304-a07e-0ddc21d600af
+[W 21:40:34.501 LabApp] WebSocket ping timeout after 119878 ms.
+[W 21:40:34.533 LabApp] zmq message arrived on closed channel
+[W 21:40:35.052 LabApp] zmq message arrived on closed channel
+[W 21:40:35.620 LabApp] zmq message arrived on closed channel
+[W 21:40:36.150 LabApp] zmq message arrived on closed channel
+[W 21:40:36.708 LabApp] zmq message arrived on closed channel
+[W 21:40:37.224 LabApp] zmq message arrived on closed channel
+[W 21:40:37.759 LabApp] zmq message arrived on closed channel
+[W 21:40:38.285 LabApp] zmq message arrived on closed channel
+[W 21:40:38.789 LabApp] zmq message arrived on closed channel
+[W 21:40:39.310 LabApp] zmq message arrived on closed channel
+[I 21:40:39.502 LabApp] Starting buffering for 63c2cc92-1c55-49bb-a8c3-106ef8a68a49:073dd22c-e856-4f85-88e1-b167193ef30f
+[I 06:35:48.065 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:47:17.186 LabApp] Kernel interrupted: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49
+[I 06:47:49.657 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:47:58.778 LabApp] Kernel restarted: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49
+[I 06:48:07.363 LabApp] Kernel interrupted: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49
+[I 06:49:15.467 LabApp] Kernel interrupted: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49
+[I 06:49:17.966 LabApp] Kernel shutdown: 1eded93e-e007-4ed8-97ce-607d6166b96d
+[I 06:49:20.147 LabApp] Discarding 2093 buffered messages for 63c2cc92-1c55-49bb-a8c3-106ef8a68a49:073dd22c-e856-4f85-88e1-b167193ef30f
+[I 06:49:20.148 LabApp] Kernel shutdown: 63c2cc92-1c55-49bb-a8c3-106ef8a68a49
+[I 06:49:23.854 LabApp] Kernel started: ce85af72-f553-4537-87c4-123a6e084ca9, name: python3
+[I 06:49:49.726 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:51:49.812 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:53:50.283 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:55:51.313 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:57:52.233 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:59:53.001 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:01:53.688 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:03:53.809 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:05:54.504 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:07:54.770 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:09:55.502 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:11:56.565 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:13:56.641 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:15:56.780 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:17:56.934 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:19:57.116 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:21:57.236 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:23:57.494 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:25:58.491 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:27:59.053 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:29:59.564 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:31:59.621 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:33:59.730 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:35:59.913 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:37:59.965 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:39:04.136 LabApp] Copying paper/Burgers/random.ipynb to /paper/Burgers
+[I 07:39:08.844 LabApp] Kernel interrupted: ce85af72-f553-4537-87c4-123a6e084ca9
+[I 07:40:00.036 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:42:00.194 LabApp] Saving file at /paper/Burgers/random.ipynb
+[W 07:42:47.971 LabApp] delete /paper/Burgers/runs/random_600
+[W 07:42:47.982 LabApp] delete /paper/Burgers/runs/x_rand_b
+[W 07:42:47.984 LabApp] delete /paper/Burgers/runs/x_rand
+[W 07:42:47.985 LabApp] delete /paper/Burgers/runs/x_randcheckpoint.pt
+[W 07:42:47.987 LabApp] delete /paper/Burgers/runs/random_600checkpoint.pt
+[W 07:42:47.988 LabApp] delete /paper/Burgers/runs/x_rand_b_1000
+[W 07:42:47.989 LabApp] delete /paper/Burgers/runs/random_600model.pt
+[W 07:42:47.990 LabApp] delete /paper/Burgers/runs/x_rand_b_1000checkpoint.pt
+[W 07:42:47.993 LabApp] delete /paper/Burgers/runs/x_randmodel.pt
+[W 07:42:47.994 LabApp] delete /paper/Burgers/runs/x_rand_bmodel.pt
+[W 07:42:47.996 LabApp] delete /paper/Burgers/runs/x_rand_bcheckpoint.pt
+[I 07:43:30.609 LabApp] Kernel restarted: ce85af72-f553-4537-87c4-123a6e084ca9
+[I 07:43:41.566 LabApp] Kernel restarted: ce85af72-f553-4537-87c4-123a6e084ca9
+[I 07:44:00.288 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:46:00.522 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:48:00.600 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:50:00.647 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:52:00.689 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:52:41.547 LabApp] Copying paper/Burgers/random.ipynb to /paper/Burgers
+[I 07:52:43.881 LabApp] Kernel started: 1324981a-9a40-43bd-9bd8-9b3c162bf219, name: python3
+[I 07:54:00.765 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:54:43.783 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:56:01.489 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:56:44.572 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:58:01.544 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 07:58:44.621 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:00:01.616 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:00:44.675 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:02:01.662 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:02:44.897 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:04:02.492 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:04:45.688 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:06:02.749 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:06:46.723 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:08:03.052 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:08:47.280 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:10:03.978 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:10:48.077 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:12:04.360 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:12:48.469 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:14:04.821 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:14:48.685 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:16:04.883 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:16:48.736 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:18:04.942 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:18:48.790 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:20:04.988 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:20:48.837 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:22:05.037 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:22:49.039 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:24:05.089 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:24:49.092 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:26:05.136 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:26:49.154 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:28:05.479 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:28:49.579 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:30:05.825 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:30:50.066 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:32:05.887 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:32:50.199 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:34:06.458 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:34:50.249 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:36:06.978 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:36:50.704 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:38:07.320 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:38:51.548 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:40:07.565 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:40:52.567 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:42:07.772 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:42:53.028 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:44:08.643 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:44:54.048 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:45:48.206 LabApp] Copying paper/Burgers/random.ipynb to /paper/Burgers
+[I 08:45:59.093 LabApp] Kernel started: f9d5a045-03c4-488a-ac2a-4226f4fb743c, name: python3
+[I 08:46:08.696 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:46:54.136 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:47:59.020 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 08:48:09.563 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:48:55.047 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:50:10.119 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:50:56.089 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:52:10.169 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:52:56.144 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:53:59.098 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 08:54:10.225 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:54:56.197 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:56:11.048 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:56:56.252 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 08:58:11.577 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 08:58:56.308 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:00:12.470 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:00:56.529 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:02:12.579 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:02:56.782 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:04:13.013 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:04:57.099 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:06:14.907 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:06:57.428 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:08:15.645 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:08:57.687 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:10:16.060 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:10:58.257 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:12:16.604 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:12:58.795 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:14:16.991 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:14:59.129 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:16:17.308 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:16:59.431 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:18:17.750 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:18:59.912 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:20:18.812 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:21:00.765 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:22:18.946 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:23:01.717 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:24:19.931 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:25:02.049 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:26:20.407 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:27:02.833 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:28:20.744 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:29:03.783 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:30:21.003 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:31:04.599 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:32:21.646 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:33:04.811 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:34:21.702 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:35:04.947 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:36:21.765 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:37:05.018 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:38:21.825 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:39:05.073 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:40:21.882 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:41:05.133 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:42:21.943 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:43:05.177 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:44:21.990 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:45:05.230 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:46:22.050 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:47:05.286 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:48:22.112 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:49:05.341 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:50:22.277 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:51:05.409 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:52:22.560 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:53:06.452 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:54:22.638 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:55:06.732 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:56:23.505 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:57:07.633 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 09:58:23.790 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 09:59:07.894 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 10:00:24.443 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 10:01:08.547 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 10:02:24.737 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 10:03:08.917 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[W 10:06:59.464 LabApp] WebSocket ping timeout after 119994 ms.
+[I 10:07:04.464 LabApp] Starting buffering for f9d5a045-03c4-488a-ac2a-4226f4fb743c:543f37d3-5ebd-4999-a727-2c834dbf16e6
+[W 10:07:14.201 LabApp] WebSocket ping timeout after 119914 ms.
+[W 10:07:14.666 LabApp] zmq message arrived on closed channel
+[W 10:07:15.747 LabApp] zmq message arrived on closed channel
+[W 10:07:16.747 LabApp] zmq message arrived on closed channel
+[W 10:07:17.718 LabApp] zmq message arrived on closed channel
+[W 10:07:18.512 LabApp] zmq message arrived on closed channel
+[W 10:07:19.090 LabApp] zmq message arrived on closed channel
+[I 10:07:19.201 LabApp] Starting buffering for 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[W 10:07:24.117 LabApp] WebSocket ping timeout after 119627 ms.
+[W 10:07:24.726 LabApp] zmq message arrived on closed channel
+[W 10:07:25.457 LabApp] zmq message arrived on closed channel
+[W 10:07:26.201 LabApp] zmq message arrived on closed channel
+[W 10:07:26.992 LabApp] zmq message arrived on closed channel
+[W 10:07:27.631 LabApp] zmq message arrived on closed channel
+[W 10:07:28.485 LabApp] zmq message arrived on closed channel
+[I 10:07:29.120 LabApp] Starting buffering for ce85af72-f553-4537-87c4-123a6e084ca9:26b33073-027e-421e-a663-14f3c8ca3ca4
+[I 10:56:02.815 LabApp] Restoring connection for 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[I 10:56:02.815 LabApp] Replaying 4229 buffered messages
+[W 10:56:03.097 LabApp] zmq message arrived on closed channel
+[W 10:56:03.098 LabApp] zmq message arrived on closed channel
+[W 10:56:03.098 LabApp] zmq message arrived on closed channel
+[W 10:56:03.098 LabApp] zmq message arrived on closed channel
+[W 10:56:03.098 LabApp] zmq message arrived on closed channel
+[W 10:56:03.099 LabApp] zmq message arrived on closed channel
+[W 10:56:03.099 LabApp] zmq message arrived on closed channel
+[W 10:56:03.099 LabApp] zmq message arrived on closed channel
+[W 10:56:03.099 LabApp] zmq message arrived on closed channel
+[W 10:56:03.100 LabApp] zmq message arrived on closed channel
+[W 10:56:03.100 LabApp] zmq message arrived on closed channel
+[W 10:56:03.100 LabApp] zmq message arrived on closed channel
+[W 10:56:03.101 LabApp] zmq message arrived on closed channel
+[W 10:56:03.101 LabApp] zmq message arrived on closed channel
+[W 10:56:03.101 LabApp] zmq message arrived on closed channel
+[W 10:56:03.101 LabApp] zmq message arrived on closed channel
+[W 10:56:03.102 LabApp] zmq message arrived on closed channel
+[W 10:56:03.102 LabApp] zmq message arrived on closed channel
+[W 10:56:03.102 LabApp] zmq message arrived on closed channel
+[W 10:56:03.102 LabApp] zmq message arrived on closed channel
+[W 10:56:03.103 LabApp] zmq message arrived on closed channel
+[W 10:56:03.103 LabApp] zmq message arrived on closed channel
+[W 10:56:03.103 LabApp] zmq message arrived on closed channel
+[W 10:56:03.103 LabApp] zmq message arrived on closed channel
+[W 10:56:03.104 LabApp] zmq message arrived on closed channel
+[W 10:56:03.104 LabApp] zmq message arrived on closed channel
+[W 10:56:03.104 LabApp] zmq message arrived on closed channel
+[W 10:56:03.104 LabApp] zmq message arrived on closed channel
+[W 10:56:03.105 LabApp] zmq message arrived on closed channel
+[W 10:56:03.105 LabApp] zmq message arrived on closed channel
+[W 10:56:03.105 LabApp] zmq message arrived on closed channel
+[W 10:56:03.105 LabApp] zmq message arrived on closed channel
+[W 10:56:03.106 LabApp] zmq message arrived on closed channel
+[W 10:56:03.106 LabApp] zmq message arrived on closed channel
+[W 10:56:03.106 LabApp] zmq message arrived on closed channel
+[W 10:56:03.106 LabApp] zmq message arrived on closed channel
+[W 10:56:03.107 LabApp] zmq message arrived on closed channel
+[W 10:56:03.107 LabApp] zmq message arrived on closed channel
+[W 10:56:03.107 LabApp] zmq message arrived on closed channel
+[W 10:56:03.107 LabApp] zmq message arrived on closed channel
+[W 10:56:03.108 LabApp] zmq message arrived on closed channel
+[W 10:56:03.108 LabApp] zmq message arrived on closed channel
+[W 10:56:03.108 LabApp] zmq message arrived on closed channel
+[W 10:56:03.109 LabApp] zmq message arrived on closed channel
+[W 10:56:03.109 LabApp] zmq message arrived on closed channel
+[W 10:56:03.109 LabApp] zmq message arrived on closed channel
+[W 10:56:03.109 LabApp] zmq message arrived on closed channel
+[W 10:56:03.110 LabApp] zmq message arrived on closed channel
+[W 10:56:03.110 LabApp] zmq message arrived on closed channel
+[W 10:56:03.110 LabApp] zmq message arrived on closed channel
+[W 10:56:03.110 LabApp] zmq message arrived on closed channel
+[W 10:56:03.111 LabApp] zmq message arrived on closed channel
+[W 10:56:03.111 LabApp] zmq message arrived on closed channel
+[W 10:56:03.111 LabApp] zmq message arrived on closed channel
+[W 10:56:03.111 LabApp] zmq message arrived on closed channel
+[W 10:56:03.112 LabApp] zmq message arrived on closed channel
+[W 10:56:03.112 LabApp] zmq message arrived on closed channel
+[W 10:56:03.112 LabApp] zmq message arrived on closed channel
+[W 10:56:03.112 LabApp] zmq message arrived on closed channel
+[W 10:56:03.113 LabApp] zmq message arrived on closed channel
+[W 10:56:03.113 LabApp] zmq message arrived on closed channel
+[W 10:56:03.113 LabApp] zmq message arrived on closed channel
+[W 10:56:03.113 LabApp] zmq message arrived on closed channel
+[W 10:56:03.114 LabApp] zmq message arrived on closed channel
+[W 10:56:03.114 LabApp] zmq message arrived on closed channel
+[W 10:56:03.114 LabApp] zmq message arrived on closed channel
+[W 10:56:03.114 LabApp] zmq message arrived on closed channel
+[W 10:56:03.115 LabApp] zmq message arrived on closed channel
+[W 10:56:03.115 LabApp] zmq message arrived on closed channel
+[W 10:56:03.115 LabApp] zmq message arrived on closed channel
+[W 10:56:03.115 LabApp] zmq message arrived on closed channel
+[W 10:56:03.116 LabApp] zmq message arrived on closed channel
+[W 10:56:03.116 LabApp] zmq message arrived on closed channel
+[W 10:56:03.116 LabApp] zmq message arrived on closed channel
+[W 10:56:03.116 LabApp] zmq message arrived on closed channel
+[W 10:56:03.117 LabApp] zmq message arrived on closed channel
+[W 10:56:03.117 LabApp] zmq message arrived on closed channel
+[W 10:56:03.117 LabApp] zmq message arrived on closed channel
+[W 10:56:03.118 LabApp] zmq message arrived on closed channel
+[W 10:56:03.118 LabApp] zmq message arrived on closed channel
+[W 10:56:03.118 LabApp] zmq message arrived on closed channel
+[W 10:56:03.118 LabApp] zmq message arrived on closed channel
+[W 10:56:03.119 LabApp] zmq message arrived on closed channel
+[W 10:56:03.119 LabApp] zmq message arrived on closed channel
+[W 10:56:03.119 LabApp] zmq message arrived on closed channel
+[W 10:56:03.119 LabApp] zmq message arrived on closed channel
+[W 10:56:03.120 LabApp] zmq message arrived on closed channel
+[W 10:56:03.120 LabApp] zmq message arrived on closed channel
+[W 10:56:03.120 LabApp] zmq message arrived on closed channel
+[W 10:56:03.120 LabApp] zmq message arrived on closed channel
+[W 10:56:03.121 LabApp] zmq message arrived on closed channel
+[W 10:56:03.121 LabApp] zmq message arrived on closed channel
+[W 10:56:03.121 LabApp] zmq message arrived on closed channel
+[W 10:56:03.121 LabApp] zmq message arrived on closed channel
+[W 10:56:03.122 LabApp] zmq message arrived on closed channel
+[W 10:56:03.122 LabApp] zmq message arrived on closed channel
+[W 10:56:03.122 LabApp] zmq message arrived on closed channel
+[W 10:56:03.122 LabApp] zmq message arrived on closed channel
+[W 10:56:03.123 LabApp] zmq message arrived on closed channel
+[W 10:56:03.123 LabApp] zmq message arrived on closed channel
+[W 10:56:03.123 LabApp] zmq message arrived on closed channel
+[W 10:56:03.123 LabApp] zmq message arrived on closed channel
+[W 10:56:03.124 LabApp] zmq message arrived on closed channel
+[W 10:56:03.124 LabApp] zmq message arrived on closed channel
+[W 10:56:03.124 LabApp] zmq message arrived on closed channel
+[W 10:56:03.124 LabApp] zmq message arrived on closed channel
+[W 10:56:03.125 LabApp] zmq message arrived on closed channel
+[W 10:56:03.125 LabApp] zmq message arrived on closed channel
+[W 10:56:03.125 LabApp] zmq message arrived on closed channel
+[W 10:56:03.125 LabApp] zmq message arrived on closed channel
+[W 10:56:03.126 LabApp] zmq message arrived on closed channel
+[W 10:56:03.126 LabApp] zmq message arrived on closed channel
+[W 10:56:03.126 LabApp] zmq message arrived on closed channel
+[W 10:56:03.126 LabApp] zmq message arrived on closed channel
+[W 10:56:03.127 LabApp] zmq message arrived on closed channel
+[W 10:56:03.127 LabApp] zmq message arrived on closed channel
+[W 10:56:03.127 LabApp] zmq message arrived on closed channel
+[W 10:56:03.127 LabApp] zmq message arrived on closed channel
+[W 10:56:03.128 LabApp] zmq message arrived on closed channel
+[W 10:56:03.128 LabApp] zmq message arrived on closed channel
+[W 10:56:03.128 LabApp] zmq message arrived on closed channel
+[W 10:56:03.128 LabApp] zmq message arrived on closed channel
+[W 10:56:03.129 LabApp] zmq message arrived on closed channel
+[W 10:56:03.129 LabApp] zmq message arrived on closed channel
+[W 10:56:03.129 LabApp] zmq message arrived on closed channel
+[W 10:56:03.129 LabApp] zmq message arrived on closed channel
+[W 10:56:03.130 LabApp] zmq message arrived on closed channel
+[W 10:56:03.130 LabApp] zmq message arrived on closed channel
+[W 10:56:03.130 LabApp] zmq message arrived on closed channel
+[W 10:56:03.130 LabApp] zmq message arrived on closed channel
+[W 10:56:03.131 LabApp] zmq message arrived on closed channel
+[W 10:56:03.131 LabApp] zmq message arrived on closed channel
+[W 10:56:03.131 LabApp] zmq message arrived on closed channel
+[W 10:56:03.131 LabApp] zmq message arrived on closed channel
+[W 10:56:03.132 LabApp] zmq message arrived on closed channel
+[W 10:56:03.132 LabApp] zmq message arrived on closed channel
+[W 10:56:03.132 LabApp] zmq message arrived on closed channel
+[W 10:56:03.132 LabApp] zmq message arrived on closed channel
+[W 10:56:03.133 LabApp] zmq message arrived on closed channel
+[W 10:56:03.133 LabApp] zmq message arrived on closed channel
+[W 10:56:03.133 LabApp] zmq message arrived on closed channel
+[W 10:56:03.133 LabApp] zmq message arrived on closed channel
+[W 10:56:03.134 LabApp] zmq message arrived on closed channel
+[W 10:56:03.134 LabApp] zmq message arrived on closed channel
+[W 10:56:03.134 LabApp] zmq message arrived on closed channel
+[W 10:56:03.134 LabApp] zmq message arrived on closed channel
+[W 10:56:03.135 LabApp] zmq message arrived on closed channel
+[W 10:56:03.135 LabApp] zmq message arrived on closed channel
+[W 10:56:03.135 LabApp] zmq message arrived on closed channel
+[W 10:56:03.135 LabApp] zmq message arrived on closed channel
+[W 10:56:03.136 LabApp] zmq message arrived on closed channel
+[W 10:56:03.136 LabApp] zmq message arrived on closed channel
+[W 10:56:03.136 LabApp] zmq message arrived on closed channel
+[W 10:56:03.136 LabApp] zmq message arrived on closed channel
+[W 10:56:03.137 LabApp] zmq message arrived on closed channel
+[W 10:56:03.137 LabApp] zmq message arrived on closed channel
+[W 10:56:03.137 LabApp] zmq message arrived on closed channel
+[W 10:56:03.137 LabApp] zmq message arrived on closed channel
+[W 10:56:03.138 LabApp] zmq message arrived on closed channel
+[W 10:56:03.138 LabApp] zmq message arrived on closed channel
+[W 10:56:03.138 LabApp] zmq message arrived on closed channel
+[W 10:56:03.138 LabApp] zmq message arrived on closed channel
+[W 10:56:03.139 LabApp] zmq message arrived on closed channel
+[W 10:56:03.139 LabApp] zmq message arrived on closed channel
+[W 10:56:03.139 LabApp] zmq message arrived on closed channel
+[W 10:56:03.139 LabApp] zmq message arrived on closed channel
+[W 10:56:03.140 LabApp] zmq message arrived on closed channel
+[W 10:56:03.140 LabApp] zmq message arrived on closed channel
+[W 10:56:03.140 LabApp] zmq message arrived on closed channel
+[W 10:56:03.140 LabApp] zmq message arrived on closed channel
+[W 10:56:03.141 LabApp] zmq message arrived on closed channel
+[W 10:56:03.141 LabApp] zmq message arrived on closed channel
+[W 10:56:03.141 LabApp] zmq message arrived on closed channel
+[W 10:56:03.141 LabApp] zmq message arrived on closed channel
+[W 10:56:03.142 LabApp] zmq message arrived on closed channel
+[W 10:56:03.142 LabApp] zmq message arrived on closed channel
+[W 10:56:03.142 LabApp] zmq message arrived on closed channel
+[W 10:56:03.142 LabApp] zmq message arrived on closed channel
+[W 10:56:03.143 LabApp] zmq message arrived on closed channel
+[W 10:56:03.143 LabApp] zmq message arrived on closed channel
+[W 10:56:03.143 LabApp] zmq message arrived on closed channel
+[W 10:56:03.143 LabApp] zmq message arrived on closed channel
+[W 10:56:03.144 LabApp] zmq message arrived on closed channel
+[W 10:56:03.144 LabApp] zmq message arrived on closed channel
+[W 10:56:03.144 LabApp] zmq message arrived on closed channel
+[W 10:56:03.144 LabApp] zmq message arrived on closed channel
+[W 10:56:03.145 LabApp] zmq message arrived on closed channel
+[W 10:56:03.145 LabApp] zmq message arrived on closed channel
+[W 10:56:03.145 LabApp] zmq message arrived on closed channel
+[W 10:56:03.145 LabApp] zmq message arrived on closed channel
+[W 10:56:03.146 LabApp] zmq message arrived on closed channel
+[W 10:56:03.146 LabApp] zmq message arrived on closed channel
+[W 10:56:03.146 LabApp] zmq message arrived on closed channel
+[W 10:56:03.146 LabApp] zmq message arrived on closed channel
+[W 10:56:03.147 LabApp] zmq message arrived on closed channel
+[W 10:56:03.147 LabApp] zmq message arrived on closed channel
+[W 10:56:03.147 LabApp] zmq message arrived on closed channel
+[W 10:56:03.147 LabApp] zmq message arrived on closed channel
+[W 10:56:03.148 LabApp] zmq message arrived on closed channel
+[W 10:56:03.148 LabApp] zmq message arrived on closed channel
+[W 10:56:03.148 LabApp] zmq message arrived on closed channel
+[W 10:56:03.148 LabApp] zmq message arrived on closed channel
+[W 10:56:03.149 LabApp] zmq message arrived on closed channel
+[W 10:56:03.149 LabApp] zmq message arrived on closed channel
+[W 10:56:03.149 LabApp] zmq message arrived on closed channel
+[W 10:56:03.149 LabApp] zmq message arrived on closed channel
+[W 10:56:03.150 LabApp] zmq message arrived on closed channel
+[W 10:56:03.150 LabApp] zmq message arrived on closed channel
+[W 10:56:03.150 LabApp] zmq message arrived on closed channel
+[W 10:56:03.150 LabApp] zmq message arrived on closed channel
+[W 10:56:03.151 LabApp] zmq message arrived on closed channel
+[W 10:56:03.151 LabApp] zmq message arrived on closed channel
+[W 10:56:03.151 LabApp] zmq message arrived on closed channel
+[W 10:56:03.152 LabApp] zmq message arrived on closed channel
+[W 10:56:03.154 LabApp] zmq message arrived on closed channel
+[W 10:56:03.154 LabApp] zmq message arrived on closed channel
+[W 10:56:03.154 LabApp] zmq message arrived on closed channel
+[W 10:56:03.155 LabApp] zmq message arrived on closed channel
+[W 10:56:03.155 LabApp] zmq message arrived on closed channel
+[W 10:56:03.155 LabApp] zmq message arrived on closed channel
+[W 10:56:03.155 LabApp] zmq message arrived on closed channel
+[W 10:56:03.156 LabApp] zmq message arrived on closed channel
+[W 10:56:03.156 LabApp] zmq message arrived on closed channel
+[W 10:56:03.156 LabApp] zmq message arrived on closed channel
+[W 10:56:03.156 LabApp] zmq message arrived on closed channel
+[W 10:56:03.157 LabApp] zmq message arrived on closed channel
+[W 10:56:03.157 LabApp] zmq message arrived on closed channel
+[W 10:56:03.157 LabApp] zmq message arrived on closed channel
+[W 10:56:03.157 LabApp] zmq message arrived on closed channel
+[W 10:56:03.158 LabApp] zmq message arrived on closed channel
+[W 10:56:03.158 LabApp] zmq message arrived on closed channel
+[W 10:56:03.158 LabApp] zmq message arrived on closed channel
+[W 10:56:03.159 LabApp] zmq message arrived on closed channel
+[W 10:56:03.159 LabApp] zmq message arrived on closed channel
+[W 10:56:03.159 LabApp] zmq message arrived on closed channel
+[W 10:56:03.159 LabApp] zmq message arrived on closed channel
+[W 10:56:03.160 LabApp] zmq message arrived on closed channel
+[W 10:56:03.162 LabApp] zmq message arrived on closed channel
+[W 10:56:03.162 LabApp] zmq message arrived on closed channel
+[W 10:56:03.162 LabApp] zmq message arrived on closed channel
+[W 10:56:03.162 LabApp] zmq message arrived on closed channel
+[W 10:56:03.163 LabApp] zmq message arrived on closed channel
+[W 10:56:03.163 LabApp] zmq message arrived on closed channel
+[W 10:56:03.163 LabApp] zmq message arrived on closed channel
+[W 10:56:03.163 LabApp] zmq message arrived on closed channel
+[W 10:56:03.164 LabApp] zmq message arrived on closed channel
+[W 10:56:03.164 LabApp] zmq message arrived on closed channel
+[W 10:56:03.164 LabApp] zmq message arrived on closed channel
+[W 10:56:03.164 LabApp] zmq message arrived on closed channel
+[W 10:56:03.165 LabApp] zmq message arrived on closed channel
+[W 10:56:03.165 LabApp] zmq message arrived on closed channel
+[W 10:56:03.165 LabApp] zmq message arrived on closed channel
+[W 10:56:03.165 LabApp] zmq message arrived on closed channel
+[W 10:56:03.166 LabApp] zmq message arrived on closed channel
+[W 10:56:03.166 LabApp] zmq message arrived on closed channel
+[W 10:56:03.166 LabApp] zmq message arrived on closed channel
+[W 10:56:03.166 LabApp] zmq message arrived on closed channel
+[W 10:56:03.167 LabApp] zmq message arrived on closed channel
+[W 10:56:03.167 LabApp] zmq message arrived on closed channel
+[W 10:56:03.167 LabApp] zmq message arrived on closed channel
+[W 10:56:03.167 LabApp] zmq message arrived on closed channel
+[W 10:56:03.170 LabApp] zmq message arrived on closed channel
+[W 10:56:03.170 LabApp] zmq message arrived on closed channel
+[W 10:56:03.170 LabApp] zmq message arrived on closed channel
+[W 10:56:03.170 LabApp] zmq message arrived on closed channel
+[W 10:56:03.171 LabApp] zmq message arrived on closed channel
+[W 10:56:03.171 LabApp] zmq message arrived on closed channel
+[W 10:56:03.171 LabApp] zmq message arrived on closed channel
+[W 10:56:03.171 LabApp] zmq message arrived on closed channel
+[W 10:56:03.172 LabApp] zmq message arrived on closed channel
+[W 10:56:03.172 LabApp] zmq message arrived on closed channel
+[W 10:56:03.172 LabApp] zmq message arrived on closed channel
+[W 10:56:03.172 LabApp] zmq message arrived on closed channel
+[W 10:56:03.173 LabApp] zmq message arrived on closed channel
+[W 10:56:03.173 LabApp] zmq message arrived on closed channel
+[W 10:56:03.173 LabApp] zmq message arrived on closed channel
+[W 10:56:03.173 LabApp] zmq message arrived on closed channel
+[W 10:56:03.174 LabApp] zmq message arrived on closed channel
+[W 10:56:03.174 LabApp] zmq message arrived on closed channel
+[W 10:56:03.174 LabApp] zmq message arrived on closed channel
+[W 10:56:03.174 LabApp] zmq message arrived on closed channel
+[W 10:56:03.175 LabApp] zmq message arrived on closed channel
+[W 10:56:03.175 LabApp] zmq message arrived on closed channel
+[W 10:56:03.175 LabApp] zmq message arrived on closed channel
+[W 10:56:03.175 LabApp] zmq message arrived on closed channel
+[W 10:56:03.176 LabApp] zmq message arrived on closed channel
+[W 10:56:03.178 LabApp] zmq message arrived on closed channel
+[W 10:56:03.178 LabApp] zmq message arrived on closed channel
+[W 10:56:03.178 LabApp] zmq message arrived on closed channel
+[W 10:56:03.179 LabApp] zmq message arrived on closed channel
+[W 10:56:03.179 LabApp] zmq message arrived on closed channel
+[W 10:56:03.179 LabApp] zmq message arrived on closed channel
+[W 10:56:03.179 LabApp] zmq message arrived on closed channel
+[W 10:56:03.180 LabApp] zmq message arrived on closed channel
+[W 10:56:03.181 LabApp] zmq message arrived on closed channel
+[W 10:56:03.181 LabApp] zmq message arrived on closed channel
+[W 10:56:03.181 LabApp] zmq message arrived on closed channel
+[W 10:56:03.181 LabApp] zmq message arrived on closed channel
+[W 10:56:03.182 LabApp] zmq message arrived on closed channel
+[W 10:56:03.182 LabApp] zmq message arrived on closed channel
+[W 10:56:03.182 LabApp] zmq message arrived on closed channel
+[W 10:56:03.182 LabApp] zmq message arrived on closed channel
+[W 10:56:03.183 LabApp] zmq message arrived on closed channel
+[W 10:56:03.183 LabApp] zmq message arrived on closed channel
+[W 10:56:03.183 LabApp] zmq message arrived on closed channel
+[W 10:56:03.183 LabApp] zmq message arrived on closed channel
+[W 10:56:03.184 LabApp] zmq message arrived on closed channel
+[W 10:56:03.184 LabApp] zmq message arrived on closed channel
+[W 10:56:03.184 LabApp] zmq message arrived on closed channel
+[W 10:56:03.184 LabApp] zmq message arrived on closed channel
+[W 10:56:03.185 LabApp] zmq message arrived on closed channel
+[W 10:56:03.185 LabApp] zmq message arrived on closed channel
+[W 10:56:03.185 LabApp] zmq message arrived on closed channel
+[W 10:56:03.185 LabApp] zmq message arrived on closed channel
+[W 10:56:03.186 LabApp] zmq message arrived on closed channel
+[W 10:56:03.186 LabApp] zmq message arrived on closed channel
+[W 10:56:03.186 LabApp] zmq message arrived on closed channel
+[W 10:56:03.186 LabApp] zmq message arrived on closed channel
+[W 10:56:03.187 LabApp] zmq message arrived on closed channel
+[W 10:56:03.187 LabApp] zmq message arrived on closed channel
+[W 10:56:03.187 LabApp] zmq message arrived on closed channel
+[W 10:56:03.187 LabApp] zmq message arrived on closed channel
+[W 10:56:03.188 LabApp] zmq message arrived on closed channel
+[W 10:56:03.190 LabApp] zmq message arrived on closed channel
+[W 10:56:03.190 LabApp] zmq message arrived on closed channel
+[W 10:56:03.191 LabApp] zmq message arrived on closed channel
+[W 10:56:03.191 LabApp] zmq message arrived on closed channel
+[W 10:56:03.191 LabApp] zmq message arrived on closed channel
+[W 10:56:03.191 LabApp] zmq message arrived on closed channel
+[W 10:56:03.192 LabApp] zmq message arrived on closed channel
+[W 10:56:03.192 LabApp] zmq message arrived on closed channel
+[W 10:56:03.192 LabApp] zmq message arrived on closed channel
+[W 10:56:03.192 LabApp] zmq message arrived on closed channel
+[W 10:56:03.193 LabApp] zmq message arrived on closed channel
+[W 10:56:03.193 LabApp] zmq message arrived on closed channel
+[W 10:56:03.193 LabApp] zmq message arrived on closed channel
+[W 10:56:03.193 LabApp] zmq message arrived on closed channel
+[W 10:56:03.194 LabApp] zmq message arrived on closed channel
+[W 10:56:03.194 LabApp] zmq message arrived on closed channel
+[W 10:56:03.194 LabApp] zmq message arrived on closed channel
+[W 10:56:03.194 LabApp] zmq message arrived on closed channel
+[W 10:56:03.195 LabApp] zmq message arrived on closed channel
+[W 10:56:03.195 LabApp] zmq message arrived on closed channel
+[W 10:56:03.195 LabApp] zmq message arrived on closed channel
+[W 10:56:03.195 LabApp] zmq message arrived on closed channel
+[W 10:56:03.196 LabApp] zmq message arrived on closed channel
+[W 10:56:03.198 LabApp] zmq message arrived on closed channel
+[W 10:56:03.198 LabApp] zmq message arrived on closed channel
+[W 10:56:03.198 LabApp] zmq message arrived on closed channel
+[W 10:56:03.198 LabApp] zmq message arrived on closed channel
+[W 10:56:03.199 LabApp] zmq message arrived on closed channel
+[W 10:56:03.199 LabApp] zmq message arrived on closed channel
+[W 10:56:03.199 LabApp] zmq message arrived on closed channel
+[W 10:56:03.199 LabApp] zmq message arrived on closed channel
+[W 10:56:03.200 LabApp] zmq message arrived on closed channel
+[W 10:56:03.201 LabApp] zmq message arrived on closed channel
+[W 10:56:03.201 LabApp] zmq message arrived on closed channel
+[W 10:56:03.201 LabApp] zmq message arrived on closed channel
+[W 10:56:03.201 LabApp] zmq message arrived on closed channel
+[W 10:56:03.202 LabApp] zmq message arrived on closed channel
+[W 10:56:03.202 LabApp] zmq message arrived on closed channel
+[W 10:56:03.202 LabApp] zmq message arrived on closed channel
+[W 10:56:03.202 LabApp] zmq message arrived on closed channel
+[W 10:56:03.203 LabApp] zmq message arrived on closed channel
+[W 10:56:03.203 LabApp] zmq message arrived on closed channel
+[W 10:56:03.203 LabApp] zmq message arrived on closed channel
+[W 10:56:03.203 LabApp] zmq message arrived on closed channel
+[W 10:56:03.204 LabApp] zmq message arrived on closed channel
+[W 10:56:03.204 LabApp] zmq message arrived on closed channel
+[W 10:56:03.204 LabApp] zmq message arrived on closed channel
+[W 10:56:03.204 LabApp] zmq message arrived on closed channel
+[W 10:56:03.205 LabApp] zmq message arrived on closed channel
+[W 10:56:03.205 LabApp] zmq message arrived on closed channel
+[W 10:56:03.205 LabApp] zmq message arrived on closed channel
+[W 10:56:03.205 LabApp] zmq message arrived on closed channel
+[W 10:56:03.206 LabApp] zmq message arrived on closed channel
+[W 10:56:03.206 LabApp] zmq message arrived on closed channel
+[W 10:56:03.206 LabApp] zmq message arrived on closed channel
+[W 10:56:03.206 LabApp] zmq message arrived on closed channel
+[W 10:56:03.207 LabApp] zmq message arrived on closed channel
+[W 10:56:03.207 LabApp] zmq message arrived on closed channel
+[W 10:56:03.207 LabApp] zmq message arrived on closed channel
+[W 10:56:03.207 LabApp] zmq message arrived on closed channel
+[W 10:56:03.210 LabApp] zmq message arrived on closed channel
+[W 10:56:03.210 LabApp] zmq message arrived on closed channel
+[W 10:56:03.211 LabApp] zmq message arrived on closed channel
+[W 10:56:03.211 LabApp] zmq message arrived on closed channel
+[W 10:56:03.211 LabApp] zmq message arrived on closed channel
+[W 10:56:03.211 LabApp] zmq message arrived on closed channel
+[W 10:56:03.212 LabApp] zmq message arrived on closed channel
+[W 10:56:03.212 LabApp] zmq message arrived on closed channel
+[W 10:56:03.212 LabApp] zmq message arrived on closed channel
+[W 10:56:03.212 LabApp] zmq message arrived on closed channel
+[W 10:56:03.213 LabApp] zmq message arrived on closed channel
+[W 10:56:03.213 LabApp] zmq message arrived on closed channel
+[W 10:56:03.213 LabApp] zmq message arrived on closed channel
+[W 10:56:03.213 LabApp] zmq message arrived on closed channel
+[W 10:56:03.214 LabApp] zmq message arrived on closed channel
+[W 10:56:03.214 LabApp] zmq message arrived on closed channel
+[W 10:56:03.214 LabApp] zmq message arrived on closed channel
+[W 10:56:03.214 LabApp] zmq message arrived on closed channel
+[W 10:56:03.215 LabApp] zmq message arrived on closed channel
+[W 10:56:03.215 LabApp] zmq message arrived on closed channel
+[W 10:56:03.215 LabApp] zmq message arrived on closed channel
+[W 10:56:03.215 LabApp] zmq message arrived on closed channel
+[W 10:56:03.216 LabApp] zmq message arrived on closed channel
+[W 10:56:03.216 LabApp] zmq message arrived on closed channel
+[W 10:56:03.216 LabApp] zmq message arrived on closed channel
+[W 10:56:03.216 LabApp] zmq message arrived on closed channel
+[W 10:56:03.217 LabApp] zmq message arrived on closed channel
+[W 10:56:03.217 LabApp] zmq message arrived on closed channel
+[W 10:56:03.217 LabApp] zmq message arrived on closed channel
+[W 10:56:03.217 LabApp] zmq message arrived on closed channel
+[W 10:56:03.218 LabApp] zmq message arrived on closed channel
+[W 10:56:03.218 LabApp] zmq message arrived on closed channel
+[W 10:56:03.218 LabApp] zmq message arrived on closed channel
+[W 10:56:03.219 LabApp] zmq message arrived on closed channel
+[W 10:56:03.219 LabApp] zmq message arrived on closed channel
+[W 10:56:03.219 LabApp] zmq message arrived on closed channel
+[W 10:56:03.219 LabApp] zmq message arrived on closed channel
+[W 10:56:03.220 LabApp] zmq message arrived on closed channel
+[W 10:56:03.220 LabApp] zmq message arrived on closed channel
+[W 10:56:03.220 LabApp] zmq message arrived on closed channel
+[W 10:56:03.220 LabApp] zmq message arrived on closed channel
+[W 10:56:03.221 LabApp] zmq message arrived on closed channel
+[W 10:56:03.221 LabApp] zmq message arrived on closed channel
+[W 10:56:03.221 LabApp] zmq message arrived on closed channel
+[W 10:56:03.221 LabApp] zmq message arrived on closed channel
+[W 10:56:03.222 LabApp] zmq message arrived on closed channel
+[W 10:56:03.222 LabApp] zmq message arrived on closed channel
+[W 10:56:03.222 LabApp] zmq message arrived on closed channel
+[W 10:56:03.222 LabApp] zmq message arrived on closed channel
+[W 10:56:03.223 LabApp] zmq message arrived on closed channel
+[W 10:56:03.223 LabApp] zmq message arrived on closed channel
+[W 10:56:03.223 LabApp] zmq message arrived on closed channel
+[W 10:56:03.223 LabApp] zmq message arrived on closed channel
+[W 10:56:03.224 LabApp] zmq message arrived on closed channel
+[W 10:56:03.224 LabApp] zmq message arrived on closed channel
+[W 10:56:03.224 LabApp] zmq message arrived on closed channel
+[W 10:56:03.225 LabApp] zmq message arrived on closed channel
+[W 10:56:03.225 LabApp] zmq message arrived on closed channel
+[W 10:56:03.225 LabApp] zmq message arrived on closed channel
+[W 10:56:03.225 LabApp] zmq message arrived on closed channel
+[W 10:56:03.226 LabApp] zmq message arrived on closed channel
+[W 10:56:03.226 LabApp] zmq message arrived on closed channel
+[W 10:56:03.226 LabApp] zmq message arrived on closed channel
+[W 10:56:03.226 LabApp] zmq message arrived on closed channel
+[W 10:56:03.227 LabApp] zmq message arrived on closed channel
+[W 10:56:03.227 LabApp] zmq message arrived on closed channel
+[W 10:56:03.227 LabApp] zmq message arrived on closed channel
+[W 10:56:03.227 LabApp] zmq message arrived on closed channel
+[W 10:56:03.228 LabApp] zmq message arrived on closed channel
+[W 10:56:03.228 LabApp] zmq message arrived on closed channel
+[W 10:56:03.228 LabApp] zmq message arrived on closed channel
+[W 10:56:03.228 LabApp] zmq message arrived on closed channel
+[W 10:56:03.229 LabApp] zmq message arrived on closed channel
+[W 10:56:03.229 LabApp] zmq message arrived on closed channel
+[W 10:56:03.229 LabApp] zmq message arrived on closed channel
+[W 10:56:03.229 LabApp] zmq message arrived on closed channel
+[W 10:56:03.230 LabApp] zmq message arrived on closed channel
+[W 10:56:03.230 LabApp] zmq message arrived on closed channel
+[W 10:56:03.230 LabApp] zmq message arrived on closed channel
+[W 10:56:03.230 LabApp] zmq message arrived on closed channel
+[W 10:56:03.231 LabApp] zmq message arrived on closed channel
+[W 10:56:03.231 LabApp] zmq message arrived on closed channel
+[W 10:56:03.231 LabApp] zmq message arrived on closed channel
+[W 10:56:03.231 LabApp] zmq message arrived on closed channel
+[W 10:56:03.232 LabApp] zmq message arrived on closed channel
+[W 10:56:03.232 LabApp] zmq message arrived on closed channel
+[W 10:56:03.232 LabApp] zmq message arrived on closed channel
+[W 10:56:03.232 LabApp] zmq message arrived on closed channel
+[W 10:56:03.233 LabApp] zmq message arrived on closed channel
+[W 10:56:03.233 LabApp] zmq message arrived on closed channel
+[W 10:56:03.233 LabApp] zmq message arrived on closed channel
+[W 10:56:03.234 LabApp] zmq message arrived on closed channel
+[W 10:56:03.234 LabApp] zmq message arrived on closed channel
+[W 10:56:03.234 LabApp] zmq message arrived on closed channel
+[W 10:56:03.234 LabApp] zmq message arrived on closed channel
+[W 10:56:03.235 LabApp] zmq message arrived on closed channel
+[W 10:56:03.235 LabApp] zmq message arrived on closed channel
+[W 10:56:03.235 LabApp] zmq message arrived on closed channel
+[W 10:56:03.235 LabApp] zmq message arrived on closed channel
+[W 10:56:03.236 LabApp] zmq message arrived on closed channel
+[W 10:56:03.236 LabApp] zmq message arrived on closed channel
+[W 10:56:03.236 LabApp] zmq message arrived on closed channel
+[W 10:56:03.236 LabApp] zmq message arrived on closed channel
+[W 10:56:03.237 LabApp] zmq message arrived on closed channel
+[W 10:56:03.237 LabApp] zmq message arrived on closed channel
+[W 10:56:03.237 LabApp] zmq message arrived on closed channel
+[W 10:56:03.237 LabApp] zmq message arrived on closed channel
+[W 10:56:03.238 LabApp] zmq message arrived on closed channel
+[W 10:56:03.238 LabApp] zmq message arrived on closed channel
+[W 10:56:03.238 LabApp] zmq message arrived on closed channel
+[W 10:56:03.238 LabApp] zmq message arrived on closed channel
+[W 10:56:03.239 LabApp] zmq message arrived on closed channel
+[W 10:56:03.239 LabApp] zmq message arrived on closed channel
+[W 10:56:03.239 LabApp] zmq message arrived on closed channel
+[W 10:56:03.239 LabApp] zmq message arrived on closed channel
+[W 10:56:03.240 LabApp] zmq message arrived on closed channel
+[W 10:56:03.240 LabApp] zmq message arrived on closed channel
+[W 10:56:03.240 LabApp] zmq message arrived on closed channel
+[W 10:56:03.240 LabApp] zmq message arrived on closed channel
+[W 10:56:03.241 LabApp] zmq message arrived on closed channel
+[W 10:56:03.241 LabApp] zmq message arrived on closed channel
+[W 10:56:03.241 LabApp] zmq message arrived on closed channel
+[W 10:56:03.241 LabApp] zmq message arrived on closed channel
+[W 10:56:03.242 LabApp] zmq message arrived on closed channel
+[W 10:56:03.242 LabApp] zmq message arrived on closed channel
+[W 10:56:03.242 LabApp] zmq message arrived on closed channel
+[W 10:56:03.242 LabApp] zmq message arrived on closed channel
+[W 10:56:03.243 LabApp] zmq message arrived on closed channel
+[W 10:56:03.243 LabApp] zmq message arrived on closed channel
+[W 10:56:03.243 LabApp] zmq message arrived on closed channel
+[W 10:56:03.243 LabApp] zmq message arrived on closed channel
+[W 10:56:03.244 LabApp] zmq message arrived on closed channel
+[W 10:56:03.244 LabApp] zmq message arrived on closed channel
+[W 10:56:03.244 LabApp] zmq message arrived on closed channel
+[W 10:56:03.244 LabApp] zmq message arrived on closed channel
+[W 10:56:03.245 LabApp] zmq message arrived on closed channel
+[W 10:56:03.245 LabApp] zmq message arrived on closed channel
+[W 10:56:03.245 LabApp] zmq message arrived on closed channel
+[W 10:56:03.245 LabApp] zmq message arrived on closed channel
+[W 10:56:03.246 LabApp] zmq message arrived on closed channel
+[W 10:56:03.246 LabApp] zmq message arrived on closed channel
+[W 10:56:03.246 LabApp] zmq message arrived on closed channel
+[W 10:56:03.246 LabApp] zmq message arrived on closed channel
+[W 10:56:03.247 LabApp] zmq message arrived on closed channel
+[W 10:56:03.247 LabApp] zmq message arrived on closed channel
+[W 10:56:03.247 LabApp] zmq message arrived on closed channel
+[W 10:56:03.247 LabApp] zmq message arrived on closed channel
+[W 10:56:03.248 LabApp] zmq message arrived on closed channel
+[W 10:56:03.248 LabApp] zmq message arrived on closed channel
+[W 10:56:03.248 LabApp] zmq message arrived on closed channel
+[W 10:56:03.249 LabApp] zmq message arrived on closed channel
+[W 10:56:03.249 LabApp] zmq message arrived on closed channel
+[W 10:56:03.249 LabApp] zmq message arrived on closed channel
+[W 10:56:03.249 LabApp] zmq message arrived on closed channel
+[W 10:56:03.250 LabApp] zmq message arrived on closed channel
+[W 10:56:03.250 LabApp] zmq message arrived on closed channel
+[W 10:56:03.250 LabApp] zmq message arrived on closed channel
+[W 10:56:03.250 LabApp] zmq message arrived on closed channel
+[W 10:56:03.251 LabApp] zmq message arrived on closed channel
+[W 10:56:03.251 LabApp] zmq message arrived on closed channel
+[W 10:56:03.251 LabApp] zmq message arrived on closed channel
+[W 10:56:03.251 LabApp] zmq message arrived on closed channel
+[W 10:56:03.252 LabApp] zmq message arrived on closed channel
+[W 10:56:03.252 LabApp] zmq message arrived on closed channel
+[W 10:56:03.252 LabApp] zmq message arrived on closed channel
+[W 10:56:03.252 LabApp] zmq message arrived on closed channel
+[W 10:56:03.253 LabApp] zmq message arrived on closed channel
+[W 10:56:03.253 LabApp] zmq message arrived on closed channel
+[W 10:56:03.253 LabApp] zmq message arrived on closed channel
+[W 10:56:03.253 LabApp] zmq message arrived on closed channel
+[W 10:56:03.254 LabApp] zmq message arrived on closed channel
+[W 10:56:03.254 LabApp] zmq message arrived on closed channel
+[W 10:56:03.254 LabApp] zmq message arrived on closed channel
+[W 10:56:03.254 LabApp] zmq message arrived on closed channel
+[W 10:56:03.255 LabApp] zmq message arrived on closed channel
+[W 10:56:03.255 LabApp] zmq message arrived on closed channel
+[W 10:56:03.255 LabApp] zmq message arrived on closed channel
+[W 10:56:03.255 LabApp] zmq message arrived on closed channel
+[W 10:56:03.256 LabApp] zmq message arrived on closed channel
+[W 10:56:03.256 LabApp] zmq message arrived on closed channel
+[W 10:56:03.256 LabApp] zmq message arrived on closed channel
+[W 10:56:03.256 LabApp] zmq message arrived on closed channel
+[W 10:56:03.257 LabApp] zmq message arrived on closed channel
+[W 10:56:03.257 LabApp] zmq message arrived on closed channel
+[W 10:56:03.257 LabApp] zmq message arrived on closed channel
+[W 10:56:03.258 LabApp] zmq message arrived on closed channel
+[W 10:56:03.258 LabApp] zmq message arrived on closed channel
+[W 10:56:03.258 LabApp] zmq message arrived on closed channel
+[W 10:56:03.258 LabApp] zmq message arrived on closed channel
+[W 10:56:03.259 LabApp] zmq message arrived on closed channel
+[W 10:56:03.259 LabApp] zmq message arrived on closed channel
+[W 10:56:03.259 LabApp] zmq message arrived on closed channel
+[W 10:56:03.259 LabApp] zmq message arrived on closed channel
+[W 10:56:03.260 LabApp] zmq message arrived on closed channel
+[W 10:56:03.260 LabApp] zmq message arrived on closed channel
+[W 10:56:03.260 LabApp] zmq message arrived on closed channel
+[W 10:56:03.260 LabApp] zmq message arrived on closed channel
+[W 10:56:03.261 LabApp] zmq message arrived on closed channel
+[W 10:56:03.261 LabApp] zmq message arrived on closed channel
+[W 10:56:03.261 LabApp] zmq message arrived on closed channel
+[W 10:56:03.261 LabApp] zmq message arrived on closed channel
+[W 10:56:03.262 LabApp] zmq message arrived on closed channel
+[W 10:56:03.262 LabApp] zmq message arrived on closed channel
+[W 10:56:03.262 LabApp] zmq message arrived on closed channel
+[W 10:56:03.262 LabApp] zmq message arrived on closed channel
+[W 10:56:03.263 LabApp] zmq message arrived on closed channel
+[W 10:56:03.263 LabApp] zmq message arrived on closed channel
+[W 10:56:03.263 LabApp] zmq message arrived on closed channel
+[W 10:56:03.263 LabApp] zmq message arrived on closed channel
+[W 10:56:03.264 LabApp] zmq message arrived on closed channel
+[W 10:56:03.264 LabApp] zmq message arrived on closed channel
+[W 10:56:03.264 LabApp] zmq message arrived on closed channel
+[W 10:56:03.264 LabApp] zmq message arrived on closed channel
+[W 10:56:03.265 LabApp] zmq message arrived on closed channel
+[W 10:56:03.265 LabApp] zmq message arrived on closed channel
+[W 10:56:03.265 LabApp] zmq message arrived on closed channel
+[W 10:56:03.265 LabApp] zmq message arrived on closed channel
+[W 10:56:03.266 LabApp] zmq message arrived on closed channel
+[W 10:56:03.266 LabApp] zmq message arrived on closed channel
+[W 10:56:03.266 LabApp] zmq message arrived on closed channel
+[W 10:56:03.266 LabApp] zmq message arrived on closed channel
+[W 10:56:03.267 LabApp] zmq message arrived on closed channel
+[W 10:56:03.267 LabApp] zmq message arrived on closed channel
+[W 10:56:03.267 LabApp] zmq message arrived on closed channel
+[W 10:56:03.267 LabApp] zmq message arrived on closed channel
+[W 10:56:03.268 LabApp] zmq message arrived on closed channel
+[W 10:56:03.268 LabApp] zmq message arrived on closed channel
+[W 10:56:03.268 LabApp] zmq message arrived on closed channel
+[W 10:56:03.269 LabApp] zmq message arrived on closed channel
+[W 10:56:03.269 LabApp] zmq message arrived on closed channel
+[W 10:56:03.269 LabApp] zmq message arrived on closed channel
+[W 10:56:03.269 LabApp] zmq message arrived on closed channel
+[W 10:56:03.270 LabApp] zmq message arrived on closed channel
+[W 10:56:03.270 LabApp] zmq message arrived on closed channel
+[W 10:56:03.270 LabApp] zmq message arrived on closed channel
+[W 10:56:03.270 LabApp] zmq message arrived on closed channel
+[W 10:56:03.271 LabApp] zmq message arrived on closed channel
+[W 10:56:03.271 LabApp] zmq message arrived on closed channel
+[W 10:56:03.271 LabApp] zmq message arrived on closed channel
+[W 10:56:03.271 LabApp] zmq message arrived on closed channel
+[W 10:56:03.272 LabApp] zmq message arrived on closed channel
+[W 10:56:03.272 LabApp] zmq message arrived on closed channel
+[W 10:56:03.272 LabApp] zmq message arrived on closed channel
+[W 10:56:03.272 LabApp] zmq message arrived on closed channel
+[W 10:56:03.273 LabApp] zmq message arrived on closed channel
+[W 10:56:03.273 LabApp] zmq message arrived on closed channel
+[W 10:56:03.273 LabApp] zmq message arrived on closed channel
+[W 10:56:03.273 LabApp] zmq message arrived on closed channel
+[W 10:56:03.274 LabApp] zmq message arrived on closed channel
+[W 10:56:03.274 LabApp] zmq message arrived on closed channel
+[W 10:56:03.274 LabApp] zmq message arrived on closed channel
+[W 10:56:03.274 LabApp] zmq message arrived on closed channel
+[W 10:56:03.275 LabApp] zmq message arrived on closed channel
+[W 10:56:03.275 LabApp] zmq message arrived on closed channel
+[W 10:56:03.275 LabApp] zmq message arrived on closed channel
+[W 10:56:03.275 LabApp] zmq message arrived on closed channel
+[W 10:56:03.276 LabApp] zmq message arrived on closed channel
+[W 10:56:03.276 LabApp] zmq message arrived on closed channel
+[W 10:56:03.276 LabApp] zmq message arrived on closed channel
+[W 10:56:03.276 LabApp] zmq message arrived on closed channel
+[W 10:56:03.277 LabApp] zmq message arrived on closed channel
+[W 10:56:03.277 LabApp] zmq message arrived on closed channel
+[W 10:56:03.277 LabApp] zmq message arrived on closed channel
+[W 10:56:03.277 LabApp] zmq message arrived on closed channel
+[W 10:56:03.278 LabApp] zmq message arrived on closed channel
+[W 10:56:03.278 LabApp] zmq message arrived on closed channel
+[W 10:56:03.278 LabApp] zmq message arrived on closed channel
+[W 10:56:03.278 LabApp] zmq message arrived on closed channel
+[W 10:56:03.279 LabApp] zmq message arrived on closed channel
+[W 10:56:03.279 LabApp] zmq message arrived on closed channel
+[W 10:56:03.279 LabApp] zmq message arrived on closed channel
+[W 10:56:03.279 LabApp] zmq message arrived on closed channel
+[W 10:56:03.280 LabApp] zmq message arrived on closed channel
+[W 10:56:03.280 LabApp] zmq message arrived on closed channel
+[W 10:56:03.280 LabApp] zmq message arrived on closed channel
+[W 10:56:03.280 LabApp] zmq message arrived on closed channel
+[W 10:56:03.281 LabApp] zmq message arrived on closed channel
+[W 10:56:03.281 LabApp] zmq message arrived on closed channel
+[W 10:56:03.281 LabApp] zmq message arrived on closed channel
+[W 10:56:03.281 LabApp] zmq message arrived on closed channel
+[W 10:56:03.282 LabApp] zmq message arrived on closed channel
+[W 10:56:03.282 LabApp] zmq message arrived on closed channel
+[W 10:56:03.282 LabApp] zmq message arrived on closed channel
+[W 10:56:03.283 LabApp] zmq message arrived on closed channel
+[W 10:56:03.283 LabApp] zmq message arrived on closed channel
+[W 10:56:03.283 LabApp] zmq message arrived on closed channel
+[W 10:56:03.283 LabApp] zmq message arrived on closed channel
+[W 10:56:03.284 LabApp] zmq message arrived on closed channel
+[W 10:56:03.284 LabApp] zmq message arrived on closed channel
+[W 10:56:03.284 LabApp] zmq message arrived on closed channel
+[W 10:56:03.284 LabApp] zmq message arrived on closed channel
+[W 10:56:03.285 LabApp] zmq message arrived on closed channel
+[W 10:56:03.285 LabApp] zmq message arrived on closed channel
+[W 10:56:03.285 LabApp] zmq message arrived on closed channel
+[W 10:56:03.285 LabApp] zmq message arrived on closed channel
+[W 10:56:03.286 LabApp] zmq message arrived on closed channel
+[W 10:56:03.286 LabApp] zmq message arrived on closed channel
+[W 10:56:03.286 LabApp] zmq message arrived on closed channel
+[W 10:56:03.286 LabApp] zmq message arrived on closed channel
+[W 10:56:03.287 LabApp] zmq message arrived on closed channel
+[W 10:56:03.287 LabApp] zmq message arrived on closed channel
+[W 10:56:03.287 LabApp] zmq message arrived on closed channel
+[W 10:56:03.287 LabApp] zmq message arrived on closed channel
+[W 10:56:03.288 LabApp] zmq message arrived on closed channel
+[W 10:56:03.288 LabApp] zmq message arrived on closed channel
+[W 10:56:03.288 LabApp] zmq message arrived on closed channel
+[W 10:56:03.288 LabApp] zmq message arrived on closed channel
+[W 10:56:03.289 LabApp] zmq message arrived on closed channel
+[W 10:56:03.289 LabApp] zmq message arrived on closed channel
+[W 10:56:03.289 LabApp] zmq message arrived on closed channel
+[W 10:56:03.289 LabApp] zmq message arrived on closed channel
+[W 10:56:03.290 LabApp] zmq message arrived on closed channel
+[W 10:56:03.290 LabApp] zmq message arrived on closed channel
+[W 10:56:03.290 LabApp] zmq message arrived on closed channel
+[W 10:56:03.290 LabApp] zmq message arrived on closed channel
+[W 10:56:03.291 LabApp] zmq message arrived on closed channel
+[W 10:56:03.291 LabApp] zmq message arrived on closed channel
+[W 10:56:03.291 LabApp] zmq message arrived on closed channel
+[W 10:56:03.291 LabApp] zmq message arrived on closed channel
+[W 10:56:03.292 LabApp] zmq message arrived on closed channel
+[W 10:56:03.292 LabApp] zmq message arrived on closed channel
+[W 10:56:03.292 LabApp] zmq message arrived on closed channel
+[W 10:56:03.293 LabApp] zmq message arrived on closed channel
+[W 10:56:03.293 LabApp] zmq message arrived on closed channel
+[W 10:56:03.293 LabApp] zmq message arrived on closed channel
+[W 10:56:03.293 LabApp] zmq message arrived on closed channel
+[W 10:56:03.294 LabApp] zmq message arrived on closed channel
+[W 10:56:03.294 LabApp] zmq message arrived on closed channel
+[W 10:56:03.294 LabApp] zmq message arrived on closed channel
+[W 10:56:03.294 LabApp] zmq message arrived on closed channel
+[W 10:56:03.295 LabApp] zmq message arrived on closed channel
+[W 10:56:03.295 LabApp] zmq message arrived on closed channel
+[W 10:56:03.295 LabApp] zmq message arrived on closed channel
+[W 10:56:03.295 LabApp] zmq message arrived on closed channel
+[W 10:56:03.296 LabApp] zmq message arrived on closed channel
+[W 10:56:03.296 LabApp] zmq message arrived on closed channel
+[W 10:56:03.296 LabApp] zmq message arrived on closed channel
+[W 10:56:03.296 LabApp] zmq message arrived on closed channel
+[W 10:56:03.297 LabApp] zmq message arrived on closed channel
+[W 10:56:03.297 LabApp] zmq message arrived on closed channel
+[W 10:56:03.297 LabApp] zmq message arrived on closed channel
+[W 10:56:03.297 LabApp] zmq message arrived on closed channel
+[W 10:56:03.298 LabApp] zmq message arrived on closed channel
+[W 10:56:03.298 LabApp] zmq message arrived on closed channel
+[W 10:56:03.298 LabApp] zmq message arrived on closed channel
+[W 10:56:03.298 LabApp] zmq message arrived on closed channel
+[W 10:56:03.299 LabApp] zmq message arrived on closed channel
+[W 10:56:03.299 LabApp] zmq message arrived on closed channel
+[W 10:56:03.299 LabApp] zmq message arrived on closed channel
+[W 10:56:03.299 LabApp] zmq message arrived on closed channel
+[W 10:56:03.300 LabApp] zmq message arrived on closed channel
+[W 10:56:03.300 LabApp] zmq message arrived on closed channel
+[W 10:56:03.300 LabApp] zmq message arrived on closed channel
+[W 10:56:03.300 LabApp] zmq message arrived on closed channel
+[W 10:56:03.301 LabApp] zmq message arrived on closed channel
+[W 10:56:03.301 LabApp] zmq message arrived on closed channel
+[W 10:56:03.301 LabApp] zmq message arrived on closed channel
+[W 10:56:03.301 LabApp] zmq message arrived on closed channel
+[W 10:56:03.302 LabApp] zmq message arrived on closed channel
+[W 10:56:03.302 LabApp] zmq message arrived on closed channel
+[W 10:56:03.302 LabApp] zmq message arrived on closed channel
+[W 10:56:03.302 LabApp] zmq message arrived on closed channel
+[W 10:56:03.303 LabApp] zmq message arrived on closed channel
+[W 10:56:03.303 LabApp] zmq message arrived on closed channel
+[W 10:56:03.303 LabApp] zmq message arrived on closed channel
+[W 10:56:03.303 LabApp] zmq message arrived on closed channel
+[W 10:56:03.304 LabApp] zmq message arrived on closed channel
+[W 10:56:03.304 LabApp] zmq message arrived on closed channel
+[W 10:56:03.304 LabApp] zmq message arrived on closed channel
+[W 10:56:03.305 LabApp] zmq message arrived on closed channel
+[W 10:56:03.305 LabApp] zmq message arrived on closed channel
+[W 10:56:03.305 LabApp] zmq message arrived on closed channel
+[W 10:56:03.305 LabApp] zmq message arrived on closed channel
+[W 10:56:03.306 LabApp] zmq message arrived on closed channel
+[W 10:56:03.306 LabApp] zmq message arrived on closed channel
+[W 10:56:03.306 LabApp] zmq message arrived on closed channel
+[W 10:56:03.306 LabApp] zmq message arrived on closed channel
+[W 10:56:03.307 LabApp] zmq message arrived on closed channel
+[W 10:56:03.307 LabApp] zmq message arrived on closed channel
+[W 10:56:03.307 LabApp] zmq message arrived on closed channel
+[W 10:56:03.307 LabApp] zmq message arrived on closed channel
+[W 10:56:03.308 LabApp] zmq message arrived on closed channel
+[W 10:56:03.308 LabApp] zmq message arrived on closed channel
+[W 10:56:03.308 LabApp] zmq message arrived on closed channel
+[W 10:56:03.308 LabApp] zmq message arrived on closed channel
+[W 10:56:03.309 LabApp] zmq message arrived on closed channel
+[W 10:56:03.309 LabApp] zmq message arrived on closed channel
+[W 10:56:03.309 LabApp] zmq message arrived on closed channel
+[W 10:56:03.309 LabApp] zmq message arrived on closed channel
+[W 10:56:03.310 LabApp] zmq message arrived on closed channel
+[W 10:56:03.310 LabApp] zmq message arrived on closed channel
+[W 10:56:03.310 LabApp] zmq message arrived on closed channel
+[W 10:56:03.310 LabApp] zmq message arrived on closed channel
+[W 10:56:03.311 LabApp] zmq message arrived on closed channel
+[W 10:56:03.311 LabApp] zmq message arrived on closed channel
+[W 10:56:03.311 LabApp] zmq message arrived on closed channel
+[W 10:56:03.311 LabApp] zmq message arrived on closed channel
+[W 10:56:03.312 LabApp] zmq message arrived on closed channel
+[W 10:56:03.312 LabApp] zmq message arrived on closed channel
+[W 10:56:03.312 LabApp] zmq message arrived on closed channel
+[W 10:56:03.312 LabApp] zmq message arrived on closed channel
+[W 10:56:03.313 LabApp] zmq message arrived on closed channel
+[W 10:56:03.313 LabApp] zmq message arrived on closed channel
+[W 10:56:03.313 LabApp] zmq message arrived on closed channel
+[W 10:56:03.313 LabApp] zmq message arrived on closed channel
+[W 10:56:03.314 LabApp] zmq message arrived on closed channel
+[W 10:56:03.314 LabApp] zmq message arrived on closed channel
+[W 10:56:03.314 LabApp] zmq message arrived on closed channel
+[W 10:56:03.314 LabApp] zmq message arrived on closed channel
+[W 10:56:03.315 LabApp] zmq message arrived on closed channel
+[W 10:56:03.315 LabApp] zmq message arrived on closed channel
+[W 10:56:03.315 LabApp] zmq message arrived on closed channel
+[W 10:56:03.315 LabApp] zmq message arrived on closed channel
+[W 10:56:03.316 LabApp] zmq message arrived on closed channel
+[W 10:56:03.316 LabApp] zmq message arrived on closed channel
+[W 10:56:03.316 LabApp] zmq message arrived on closed channel
+[W 10:56:03.316 LabApp] zmq message arrived on closed channel
+[W 10:56:03.317 LabApp] zmq message arrived on closed channel
+[W 10:56:03.317 LabApp] zmq message arrived on closed channel
+[W 10:56:03.317 LabApp] zmq message arrived on closed channel
+[W 10:56:03.317 LabApp] zmq message arrived on closed channel
+[W 10:56:03.318 LabApp] zmq message arrived on closed channel
+[W 10:56:03.318 LabApp] zmq message arrived on closed channel
+[W 10:56:03.318 LabApp] zmq message arrived on closed channel
+[W 10:56:03.319 LabApp] zmq message arrived on closed channel
+[W 10:56:03.319 LabApp] zmq message arrived on closed channel
+[W 10:56:03.319 LabApp] zmq message arrived on closed channel
+[W 10:56:03.319 LabApp] zmq message arrived on closed channel
+[W 10:56:03.320 LabApp] zmq message arrived on closed channel
+[W 10:56:03.320 LabApp] zmq message arrived on closed channel
+[W 10:56:03.320 LabApp] zmq message arrived on closed channel
+[W 10:56:03.320 LabApp] zmq message arrived on closed channel
+[W 10:56:03.321 LabApp] zmq message arrived on closed channel
+[W 10:56:03.321 LabApp] zmq message arrived on closed channel
+[W 10:56:03.321 LabApp] zmq message arrived on closed channel
+[W 10:56:03.321 LabApp] zmq message arrived on closed channel
+[W 10:56:03.322 LabApp] zmq message arrived on closed channel
+[W 10:56:03.322 LabApp] zmq message arrived on closed channel
+[W 10:56:03.322 LabApp] zmq message arrived on closed channel
+[W 10:56:03.322 LabApp] zmq message arrived on closed channel
+[W 10:56:03.323 LabApp] zmq message arrived on closed channel
+[W 10:56:03.323 LabApp] zmq message arrived on closed channel
+[W 10:56:03.323 LabApp] zmq message arrived on closed channel
+[W 10:56:03.323 LabApp] zmq message arrived on closed channel
+[W 10:56:03.324 LabApp] zmq message arrived on closed channel
+[W 10:56:03.324 LabApp] zmq message arrived on closed channel
+[W 10:56:03.324 LabApp] zmq message arrived on closed channel
+[W 10:56:03.324 LabApp] zmq message arrived on closed channel
+[W 10:56:03.325 LabApp] zmq message arrived on closed channel
+[W 10:56:03.325 LabApp] zmq message arrived on closed channel
+[W 10:56:03.325 LabApp] zmq message arrived on closed channel
+[W 10:56:03.325 LabApp] zmq message arrived on closed channel
+[W 10:56:03.326 LabApp] zmq message arrived on closed channel
+[W 10:56:03.326 LabApp] zmq message arrived on closed channel
+[W 10:56:03.326 LabApp] zmq message arrived on closed channel
+[W 10:56:03.326 LabApp] zmq message arrived on closed channel
+[W 10:56:03.327 LabApp] zmq message arrived on closed channel
+[W 10:56:03.327 LabApp] zmq message arrived on closed channel
+[W 10:56:03.327 LabApp] zmq message arrived on closed channel
+[W 10:56:03.327 LabApp] zmq message arrived on closed channel
+[W 10:56:03.328 LabApp] zmq message arrived on closed channel
+[W 10:56:03.328 LabApp] zmq message arrived on closed channel
+[W 10:56:03.328 LabApp] zmq message arrived on closed channel
+[W 10:56:03.329 LabApp] zmq message arrived on closed channel
+[W 10:56:03.329 LabApp] zmq message arrived on closed channel
+[W 10:56:03.329 LabApp] zmq message arrived on closed channel
+[W 10:56:03.329 LabApp] zmq message arrived on closed channel
+[W 10:56:03.330 LabApp] zmq message arrived on closed channel
+[W 10:56:03.330 LabApp] zmq message arrived on closed channel
+[W 10:56:03.330 LabApp] zmq message arrived on closed channel
+[W 10:56:03.330 LabApp] zmq message arrived on closed channel
+[W 10:56:03.331 LabApp] zmq message arrived on closed channel
+[W 10:56:03.331 LabApp] zmq message arrived on closed channel
+[W 10:56:03.331 LabApp] zmq message arrived on closed channel
+[W 10:56:03.331 LabApp] zmq message arrived on closed channel
+[W 10:56:03.332 LabApp] zmq message arrived on closed channel
+[W 10:56:03.332 LabApp] zmq message arrived on closed channel
+[W 10:56:03.332 LabApp] zmq message arrived on closed channel
+[W 10:56:03.332 LabApp] zmq message arrived on closed channel
+[W 10:56:03.333 LabApp] zmq message arrived on closed channel
+[W 10:56:03.333 LabApp] zmq message arrived on closed channel
+[W 10:56:03.333 LabApp] zmq message arrived on closed channel
+[W 10:56:03.333 LabApp] zmq message arrived on closed channel
+[W 10:56:03.334 LabApp] zmq message arrived on closed channel
+[W 10:56:03.334 LabApp] zmq message arrived on closed channel
+[W 10:56:03.334 LabApp] zmq message arrived on closed channel
+[W 10:56:03.334 LabApp] zmq message arrived on closed channel
+[W 10:56:03.335 LabApp] zmq message arrived on closed channel
+[W 10:56:03.335 LabApp] zmq message arrived on closed channel
+[W 10:56:03.335 LabApp] zmq message arrived on closed channel
+[W 10:56:03.335 LabApp] zmq message arrived on closed channel
+[W 10:56:03.336 LabApp] zmq message arrived on closed channel
+[W 10:56:03.336 LabApp] zmq message arrived on closed channel
+[W 10:56:03.336 LabApp] zmq message arrived on closed channel
+[W 10:56:03.337 LabApp] zmq message arrived on closed channel
+[W 10:56:03.337 LabApp] zmq message arrived on closed channel
+[W 10:56:03.337 LabApp] zmq message arrived on closed channel
+[W 10:56:03.337 LabApp] zmq message arrived on closed channel
+[W 10:56:03.338 LabApp] zmq message arrived on closed channel
+[W 10:56:03.338 LabApp] zmq message arrived on closed channel
+[W 10:56:03.338 LabApp] zmq message arrived on closed channel
+[W 10:56:03.338 LabApp] zmq message arrived on closed channel
+[W 10:56:03.339 LabApp] zmq message arrived on closed channel
+[W 10:56:03.339 LabApp] zmq message arrived on closed channel
+[W 10:56:03.339 LabApp] zmq message arrived on closed channel
+[W 10:56:03.339 LabApp] zmq message arrived on closed channel
+[W 10:56:03.340 LabApp] zmq message arrived on closed channel
+[W 10:56:03.340 LabApp] zmq message arrived on closed channel
+[W 10:56:03.340 LabApp] zmq message arrived on closed channel
+[W 10:56:03.340 LabApp] zmq message arrived on closed channel
+[W 10:56:03.341 LabApp] zmq message arrived on closed channel
+[W 10:56:03.341 LabApp] zmq message arrived on closed channel
+[W 10:56:03.341 LabApp] zmq message arrived on closed channel
+[W 10:56:03.341 LabApp] zmq message arrived on closed channel
+[W 10:56:03.342 LabApp] zmq message arrived on closed channel
+[W 10:56:03.342 LabApp] zmq message arrived on closed channel
+[W 10:56:03.342 LabApp] zmq message arrived on closed channel
+[W 10:56:03.342 LabApp] zmq message arrived on closed channel
+[W 10:56:03.343 LabApp] zmq message arrived on closed channel
+[W 10:56:03.343 LabApp] zmq message arrived on closed channel
+[W 10:56:03.343 LabApp] zmq message arrived on closed channel
+[W 10:56:03.343 LabApp] zmq message arrived on closed channel
+[W 10:56:03.344 LabApp] zmq message arrived on closed channel
+[W 10:56:03.344 LabApp] zmq message arrived on closed channel
+[W 10:56:03.344 LabApp] zmq message arrived on closed channel
+[W 10:56:03.345 LabApp] zmq message arrived on closed channel
+[W 10:56:03.345 LabApp] zmq message arrived on closed channel
+[W 10:56:03.345 LabApp] zmq message arrived on closed channel
+[W 10:56:03.345 LabApp] zmq message arrived on closed channel
+[W 10:56:03.346 LabApp] zmq message arrived on closed channel
+[W 10:56:03.346 LabApp] zmq message arrived on closed channel
+[W 10:56:03.346 LabApp] zmq message arrived on closed channel
+[W 10:56:03.346 LabApp] zmq message arrived on closed channel
+[W 10:56:03.347 LabApp] zmq message arrived on closed channel
+[W 10:56:03.347 LabApp] zmq message arrived on closed channel
+[W 10:56:03.347 LabApp] zmq message arrived on closed channel
+[W 10:56:03.347 LabApp] zmq message arrived on closed channel
+[W 10:56:03.348 LabApp] zmq message arrived on closed channel
+[W 10:56:03.348 LabApp] zmq message arrived on closed channel
+[W 10:56:03.348 LabApp] zmq message arrived on closed channel
+[W 10:56:03.348 LabApp] zmq message arrived on closed channel
+[W 10:56:03.349 LabApp] zmq message arrived on closed channel
+[W 10:56:03.349 LabApp] zmq message arrived on closed channel
+[W 10:56:03.349 LabApp] zmq message arrived on closed channel
+[W 10:56:03.349 LabApp] zmq message arrived on closed channel
+[W 10:56:03.350 LabApp] zmq message arrived on closed channel
+[W 10:56:03.350 LabApp] zmq message arrived on closed channel
+[W 10:56:03.350 LabApp] zmq message arrived on closed channel
+[W 10:56:03.350 LabApp] zmq message arrived on closed channel
+[W 10:56:03.351 LabApp] zmq message arrived on closed channel
+[W 10:56:03.351 LabApp] zmq message arrived on closed channel
+[W 10:56:03.351 LabApp] zmq message arrived on closed channel
+[W 10:56:03.351 LabApp] zmq message arrived on closed channel
+[W 10:56:03.352 LabApp] zmq message arrived on closed channel
+[W 10:56:03.352 LabApp] zmq message arrived on closed channel
+[W 10:56:03.352 LabApp] zmq message arrived on closed channel
+[W 10:56:03.352 LabApp] zmq message arrived on closed channel
+[W 10:56:03.353 LabApp] zmq message arrived on closed channel
+[W 10:56:03.353 LabApp] zmq message arrived on closed channel
+[W 10:56:03.353 LabApp] zmq message arrived on closed channel
+[W 10:56:03.353 LabApp] zmq message arrived on closed channel
+[W 10:56:03.354 LabApp] zmq message arrived on closed channel
+[W 10:56:03.354 LabApp] zmq message arrived on closed channel
+[W 10:56:03.354 LabApp] zmq message arrived on closed channel
+[W 10:56:03.354 LabApp] zmq message arrived on closed channel
+[W 10:56:03.355 LabApp] zmq message arrived on closed channel
+[W 10:56:03.355 LabApp] zmq message arrived on closed channel
+[W 10:56:03.355 LabApp] zmq message arrived on closed channel
+[W 10:56:03.355 LabApp] zmq message arrived on closed channel
+[W 10:56:03.356 LabApp] zmq message arrived on closed channel
+[W 10:56:03.356 LabApp] zmq message arrived on closed channel
+[W 10:56:03.356 LabApp] zmq message arrived on closed channel
+[W 10:56:03.356 LabApp] zmq message arrived on closed channel
+[W 10:56:03.357 LabApp] zmq message arrived on closed channel
+[W 10:56:03.357 LabApp] zmq message arrived on closed channel
+[W 10:56:03.357 LabApp] zmq message arrived on closed channel
+[W 10:56:03.357 LabApp] zmq message arrived on closed channel
+[W 10:56:03.358 LabApp] zmq message arrived on closed channel
+[W 10:56:03.358 LabApp] zmq message arrived on closed channel
+[W 10:56:03.358 LabApp] zmq message arrived on closed channel
+[W 10:56:03.359 LabApp] zmq message arrived on closed channel
+[W 10:56:03.359 LabApp] zmq message arrived on closed channel
+[W 10:56:03.359 LabApp] zmq message arrived on closed channel
+[W 10:56:03.359 LabApp] zmq message arrived on closed channel
+[W 10:56:03.360 LabApp] zmq message arrived on closed channel
+[W 10:56:03.360 LabApp] zmq message arrived on closed channel
+[W 10:56:03.360 LabApp] zmq message arrived on closed channel
+[W 10:56:03.360 LabApp] zmq message arrived on closed channel
+[W 10:56:03.361 LabApp] zmq message arrived on closed channel
+[W 10:56:03.361 LabApp] zmq message arrived on closed channel
+[W 10:56:03.361 LabApp] zmq message arrived on closed channel
+[W 10:56:03.361 LabApp] zmq message arrived on closed channel
+[W 10:56:03.362 LabApp] zmq message arrived on closed channel
+[W 10:56:03.362 LabApp] zmq message arrived on closed channel
+[W 10:56:03.362 LabApp] zmq message arrived on closed channel
+[W 10:56:03.362 LabApp] zmq message arrived on closed channel
+[W 10:56:03.363 LabApp] zmq message arrived on closed channel
+[W 10:56:03.363 LabApp] zmq message arrived on closed channel
+[W 10:56:03.363 LabApp] zmq message arrived on closed channel
+[W 10:56:03.363 LabApp] zmq message arrived on closed channel
+[W 10:56:03.364 LabApp] zmq message arrived on closed channel
+[W 10:56:03.364 LabApp] zmq message arrived on closed channel
+[W 10:56:03.364 LabApp] zmq message arrived on closed channel
+[W 10:56:03.364 LabApp] zmq message arrived on closed channel
+[W 10:56:03.365 LabApp] zmq message arrived on closed channel
+[W 10:56:03.365 LabApp] zmq message arrived on closed channel
+[W 10:56:03.365 LabApp] zmq message arrived on closed channel
+[W 10:56:03.365 LabApp] zmq message arrived on closed channel
+[W 10:56:03.366 LabApp] zmq message arrived on closed channel
+[W 10:56:03.366 LabApp] zmq message arrived on closed channel
+[W 10:56:03.366 LabApp] zmq message arrived on closed channel
+[W 10:56:03.366 LabApp] zmq message arrived on closed channel
+[W 10:56:03.367 LabApp] zmq message arrived on closed channel
+[W 10:56:03.367 LabApp] zmq message arrived on closed channel
+[W 10:56:03.367 LabApp] zmq message arrived on closed channel
+[W 10:56:03.367 LabApp] zmq message arrived on closed channel
+[W 10:56:03.368 LabApp] zmq message arrived on closed channel
+[W 10:56:03.368 LabApp] zmq message arrived on closed channel
+[W 10:56:03.368 LabApp] zmq message arrived on closed channel
+[W 10:56:03.369 LabApp] zmq message arrived on closed channel
+[W 10:56:03.369 LabApp] zmq message arrived on closed channel
+[W 10:56:03.369 LabApp] zmq message arrived on closed channel
+[W 10:56:03.369 LabApp] zmq message arrived on closed channel
+[W 10:56:03.370 LabApp] zmq message arrived on closed channel
+[W 10:56:03.370 LabApp] zmq message arrived on closed channel
+[W 10:56:03.370 LabApp] zmq message arrived on closed channel
+[W 10:56:03.370 LabApp] zmq message arrived on closed channel
+[W 10:56:03.371 LabApp] zmq message arrived on closed channel
+[W 10:56:03.371 LabApp] zmq message arrived on closed channel
+[W 10:56:03.371 LabApp] zmq message arrived on closed channel
+[W 10:56:03.371 LabApp] zmq message arrived on closed channel
+[W 10:56:03.372 LabApp] zmq message arrived on closed channel
+[W 10:56:03.372 LabApp] zmq message arrived on closed channel
+[W 10:56:03.372 LabApp] zmq message arrived on closed channel
+[W 10:56:03.372 LabApp] zmq message arrived on closed channel
+[W 10:56:03.373 LabApp] zmq message arrived on closed channel
+[W 10:56:03.373 LabApp] zmq message arrived on closed channel
+[W 10:56:03.373 LabApp] zmq message arrived on closed channel
+[W 10:56:03.373 LabApp] zmq message arrived on closed channel
+[W 10:56:03.374 LabApp] zmq message arrived on closed channel
+[W 10:56:03.374 LabApp] zmq message arrived on closed channel
+[W 10:56:03.374 LabApp] zmq message arrived on closed channel
+[W 10:56:03.374 LabApp] zmq message arrived on closed channel
+[W 10:56:03.375 LabApp] zmq message arrived on closed channel
+[W 10:56:03.375 LabApp] zmq message arrived on closed channel
+[W 10:56:03.375 LabApp] zmq message arrived on closed channel
+[W 10:56:03.375 LabApp] zmq message arrived on closed channel
+[W 10:56:03.376 LabApp] zmq message arrived on closed channel
+[W 10:56:03.376 LabApp] zmq message arrived on closed channel
+[W 10:56:03.376 LabApp] zmq message arrived on closed channel
+[W 10:56:03.376 LabApp] zmq message arrived on closed channel
+[W 10:56:03.377 LabApp] zmq message arrived on closed channel
+[W 10:56:03.377 LabApp] zmq message arrived on closed channel
+[W 10:56:03.377 LabApp] zmq message arrived on closed channel
+[W 10:56:03.377 LabApp] zmq message arrived on closed channel
+[W 10:56:03.378 LabApp] zmq message arrived on closed channel
+[W 10:56:03.378 LabApp] zmq message arrived on closed channel
+[W 10:56:03.378 LabApp] zmq message arrived on closed channel
+[W 10:56:03.378 LabApp] zmq message arrived on closed channel
+[W 10:56:03.379 LabApp] zmq message arrived on closed channel
+[W 10:56:03.379 LabApp] zmq message arrived on closed channel
+[W 10:56:03.379 LabApp] zmq message arrived on closed channel
+[W 10:56:03.379 LabApp] zmq message arrived on closed channel
+[W 10:56:03.380 LabApp] zmq message arrived on closed channel
+[W 10:56:03.380 LabApp] zmq message arrived on closed channel
+[W 10:56:03.380 LabApp] zmq message arrived on closed channel
+[W 10:56:03.381 LabApp] zmq message arrived on closed channel
+[W 10:56:03.381 LabApp] zmq message arrived on closed channel
+[W 10:56:03.381 LabApp] zmq message arrived on closed channel
+[W 10:56:03.381 LabApp] zmq message arrived on closed channel
+[W 10:56:03.382 LabApp] zmq message arrived on closed channel
+[W 10:56:03.382 LabApp] zmq message arrived on closed channel
+[W 10:56:03.382 LabApp] zmq message arrived on closed channel
+[W 10:56:03.382 LabApp] zmq message arrived on closed channel
+[W 10:56:03.383 LabApp] zmq message arrived on closed channel
+[W 10:56:03.383 LabApp] zmq message arrived on closed channel
+[W 10:56:03.383 LabApp] zmq message arrived on closed channel
+[W 10:56:03.384 LabApp] zmq message arrived on closed channel
+[W 10:56:03.384 LabApp] zmq message arrived on closed channel
+[W 10:56:03.384 LabApp] zmq message arrived on closed channel
+[W 10:56:03.385 LabApp] zmq message arrived on closed channel
+[W 10:56:03.385 LabApp] zmq message arrived on closed channel
+[W 10:56:03.385 LabApp] zmq message arrived on closed channel
+[W 10:56:03.386 LabApp] zmq message arrived on closed channel
+[W 10:56:03.386 LabApp] zmq message arrived on closed channel
+[W 10:56:03.386 LabApp] zmq message arrived on closed channel
+[W 10:56:03.387 LabApp] zmq message arrived on closed channel
+[W 10:56:03.387 LabApp] zmq message arrived on closed channel
+[W 10:56:03.387 LabApp] zmq message arrived on closed channel
+[W 10:56:03.387 LabApp] zmq message arrived on closed channel
+[W 10:56:03.388 LabApp] zmq message arrived on closed channel
+[W 10:56:03.388 LabApp] zmq message arrived on closed channel
+[W 10:56:03.388 LabApp] zmq message arrived on closed channel
+[W 10:56:03.389 LabApp] zmq message arrived on closed channel
+[W 10:56:03.389 LabApp] zmq message arrived on closed channel
+[W 10:56:03.389 LabApp] zmq message arrived on closed channel
+[W 10:56:03.390 LabApp] zmq message arrived on closed channel
+[W 10:56:03.390 LabApp] zmq message arrived on closed channel
+[W 10:56:03.390 LabApp] zmq message arrived on closed channel
+[W 10:56:03.391 LabApp] zmq message arrived on closed channel
+[W 10:56:03.391 LabApp] zmq message arrived on closed channel
+[W 10:56:03.391 LabApp] zmq message arrived on closed channel
+[W 10:56:03.392 LabApp] zmq message arrived on closed channel
+[W 10:56:03.392 LabApp] zmq message arrived on closed channel
+[W 10:56:03.392 LabApp] zmq message arrived on closed channel
+[W 10:56:03.393 LabApp] zmq message arrived on closed channel
+[W 10:56:03.393 LabApp] zmq message arrived on closed channel
+[W 10:56:03.393 LabApp] zmq message arrived on closed channel
+[W 10:56:03.393 LabApp] zmq message arrived on closed channel
+[W 10:56:03.394 LabApp] zmq message arrived on closed channel
+[W 10:56:03.394 LabApp] zmq message arrived on closed channel
+[W 10:56:03.394 LabApp] zmq message arrived on closed channel
+[W 10:56:03.395 LabApp] zmq message arrived on closed channel
+[W 10:56:03.395 LabApp] zmq message arrived on closed channel
+[W 10:56:03.395 LabApp] zmq message arrived on closed channel
+[W 10:56:03.396 LabApp] zmq message arrived on closed channel
+[W 10:56:03.396 LabApp] zmq message arrived on closed channel
+[W 10:56:03.396 LabApp] zmq message arrived on closed channel
+[W 10:56:03.396 LabApp] zmq message arrived on closed channel
+[W 10:56:03.397 LabApp] zmq message arrived on closed channel
+[W 10:56:03.397 LabApp] zmq message arrived on closed channel
+[W 10:56:03.397 LabApp] zmq message arrived on closed channel
+[W 10:56:03.397 LabApp] zmq message arrived on closed channel
+[W 10:56:03.398 LabApp] zmq message arrived on closed channel
+[W 10:56:03.398 LabApp] zmq message arrived on closed channel
+[W 10:56:03.398 LabApp] zmq message arrived on closed channel
+[W 10:56:03.398 LabApp] zmq message arrived on closed channel
+[W 10:56:03.399 LabApp] zmq message arrived on closed channel
+[W 10:56:03.399 LabApp] zmq message arrived on closed channel
+[W 10:56:03.399 LabApp] zmq message arrived on closed channel
+[W 10:56:03.399 LabApp] zmq message arrived on closed channel
+[W 10:56:03.400 LabApp] zmq message arrived on closed channel
+[W 10:56:03.400 LabApp] zmq message arrived on closed channel
+[W 10:56:03.400 LabApp] zmq message arrived on closed channel
+[W 10:56:03.400 LabApp] zmq message arrived on closed channel
+[W 10:56:03.401 LabApp] zmq message arrived on closed channel
+[W 10:56:03.401 LabApp] zmq message arrived on closed channel
+[W 10:56:03.401 LabApp] zmq message arrived on closed channel
+[W 10:56:03.401 LabApp] zmq message arrived on closed channel
+[W 10:56:03.402 LabApp] zmq message arrived on closed channel
+[W 10:56:03.402 LabApp] zmq message arrived on closed channel
+[W 10:56:03.402 LabApp] zmq message arrived on closed channel
+[W 10:56:03.402 LabApp] zmq message arrived on closed channel
+[W 10:56:03.403 LabApp] zmq message arrived on closed channel
+[W 10:56:03.403 LabApp] zmq message arrived on closed channel
+[W 10:56:03.403 LabApp] zmq message arrived on closed channel
+[W 10:56:03.403 LabApp] zmq message arrived on closed channel
+[W 10:56:03.404 LabApp] zmq message arrived on closed channel
+[W 10:56:03.404 LabApp] zmq message arrived on closed channel
+[W 10:56:03.404 LabApp] zmq message arrived on closed channel
+[W 10:56:03.404 LabApp] zmq message arrived on closed channel
+[W 10:56:03.405 LabApp] zmq message arrived on closed channel
+[W 10:56:03.405 LabApp] zmq message arrived on closed channel
+[W 10:56:03.405 LabApp] zmq message arrived on closed channel
+[W 10:56:03.405 LabApp] zmq message arrived on closed channel
+[W 10:56:03.406 LabApp] zmq message arrived on closed channel
+[W 10:56:03.406 LabApp] zmq message arrived on closed channel
+[W 10:56:03.406 LabApp] zmq message arrived on closed channel
+[W 10:56:03.406 LabApp] zmq message arrived on closed channel
+[W 10:56:03.407 LabApp] zmq message arrived on closed channel
+[W 10:56:03.407 LabApp] zmq message arrived on closed channel
+[W 10:56:03.407 LabApp] zmq message arrived on closed channel
+[W 10:56:03.407 LabApp] zmq message arrived on closed channel
+[W 10:56:03.408 LabApp] zmq message arrived on closed channel
+[W 10:56:03.408 LabApp] zmq message arrived on closed channel
+[W 10:56:03.408 LabApp] zmq message arrived on closed channel
+[W 10:56:03.408 LabApp] zmq message arrived on closed channel
+[W 10:56:03.409 LabApp] zmq message arrived on closed channel
+[W 10:56:03.409 LabApp] zmq message arrived on closed channel
+[W 10:56:03.409 LabApp] zmq message arrived on closed channel
+[W 10:56:03.409 LabApp] zmq message arrived on closed channel
+[W 10:56:03.410 LabApp] zmq message arrived on closed channel
+[W 10:56:03.410 LabApp] zmq message arrived on closed channel
+[W 10:56:03.410 LabApp] zmq message arrived on closed channel
+[W 10:56:03.410 LabApp] zmq message arrived on closed channel
+[W 10:56:03.411 LabApp] zmq message arrived on closed channel
+[W 10:56:03.411 LabApp] zmq message arrived on closed channel
+[W 10:56:03.411 LabApp] zmq message arrived on closed channel
+[W 10:56:03.411 LabApp] zmq message arrived on closed channel
+[W 10:56:03.412 LabApp] zmq message arrived on closed channel
+[W 10:56:03.412 LabApp] zmq message arrived on closed channel
+[W 10:56:03.412 LabApp] zmq message arrived on closed channel
+[W 10:56:03.412 LabApp] zmq message arrived on closed channel
+[W 10:56:03.413 LabApp] zmq message arrived on closed channel
+[W 10:56:03.413 LabApp] zmq message arrived on closed channel
+[W 10:56:03.413 LabApp] zmq message arrived on closed channel
+[W 10:56:03.413 LabApp] zmq message arrived on closed channel
+[W 10:56:03.414 LabApp] zmq message arrived on closed channel
+[W 10:56:03.414 LabApp] zmq message arrived on closed channel
+[W 10:56:03.414 LabApp] zmq message arrived on closed channel
+[W 10:56:03.414 LabApp] zmq message arrived on closed channel
+[W 10:56:03.415 LabApp] zmq message arrived on closed channel
+[W 10:56:03.415 LabApp] zmq message arrived on closed channel
+[W 10:56:03.415 LabApp] zmq message arrived on closed channel
+[W 10:56:03.415 LabApp] zmq message arrived on closed channel
+[W 10:56:03.416 LabApp] zmq message arrived on closed channel
+[W 10:56:03.416 LabApp] zmq message arrived on closed channel
+[W 10:56:03.416 LabApp] zmq message arrived on closed channel
+[W 10:56:03.417 LabApp] zmq message arrived on closed channel
+[W 10:56:03.417 LabApp] zmq message arrived on closed channel
+[W 10:56:03.417 LabApp] zmq message arrived on closed channel
+[W 10:56:03.417 LabApp] zmq message arrived on closed channel
+[W 10:56:03.418 LabApp] zmq message arrived on closed channel
+[W 10:56:03.418 LabApp] zmq message arrived on closed channel
+[W 10:56:03.418 LabApp] zmq message arrived on closed channel
+[W 10:56:03.418 LabApp] zmq message arrived on closed channel
+[W 10:56:03.419 LabApp] zmq message arrived on closed channel
+[W 10:56:03.419 LabApp] zmq message arrived on closed channel
+[W 10:56:03.419 LabApp] zmq message arrived on closed channel
+[W 10:56:03.419 LabApp] zmq message arrived on closed channel
+[W 10:56:03.420 LabApp] zmq message arrived on closed channel
+[W 10:56:03.420 LabApp] zmq message arrived on closed channel
+[W 10:56:03.420 LabApp] zmq message arrived on closed channel
+[W 10:56:03.420 LabApp] zmq message arrived on closed channel
+[W 10:56:03.421 LabApp] zmq message arrived on closed channel
+[W 10:56:03.421 LabApp] zmq message arrived on closed channel
+[W 10:56:03.421 LabApp] zmq message arrived on closed channel
+[W 10:56:03.421 LabApp] zmq message arrived on closed channel
+[W 10:56:03.422 LabApp] zmq message arrived on closed channel
+[W 10:56:03.422 LabApp] zmq message arrived on closed channel
+[W 10:56:03.422 LabApp] zmq message arrived on closed channel
+[W 10:56:03.422 LabApp] zmq message arrived on closed channel
+[W 10:56:03.423 LabApp] zmq message arrived on closed channel
+[W 10:56:03.423 LabApp] zmq message arrived on closed channel
+[W 10:56:03.423 LabApp] zmq message arrived on closed channel
+[W 10:56:03.423 LabApp] zmq message arrived on closed channel
+[W 10:56:03.424 LabApp] zmq message arrived on closed channel
+[W 10:56:03.424 LabApp] zmq message arrived on closed channel
+[W 10:56:03.424 LabApp] zmq message arrived on closed channel
+[W 10:56:03.424 LabApp] zmq message arrived on closed channel
+[W 10:56:03.425 LabApp] zmq message arrived on closed channel
+[W 10:56:03.425 LabApp] zmq message arrived on closed channel
+[W 10:56:03.425 LabApp] zmq message arrived on closed channel
+[W 10:56:03.425 LabApp] zmq message arrived on closed channel
+[W 10:56:03.426 LabApp] zmq message arrived on closed channel
+[W 10:56:03.426 LabApp] zmq message arrived on closed channel
+[W 10:56:03.426 LabApp] zmq message arrived on closed channel
+[W 10:56:03.426 LabApp] zmq message arrived on closed channel
+[W 10:56:03.427 LabApp] zmq message arrived on closed channel
+[W 10:56:03.427 LabApp] zmq message arrived on closed channel
+[W 10:56:03.427 LabApp] zmq message arrived on closed channel
+[W 10:56:03.427 LabApp] zmq message arrived on closed channel
+[W 10:56:03.428 LabApp] zmq message arrived on closed channel
+[W 10:56:03.428 LabApp] zmq message arrived on closed channel
+[W 10:56:03.428 LabApp] zmq message arrived on closed channel
+[W 10:56:03.428 LabApp] zmq message arrived on closed channel
+[W 10:56:03.429 LabApp] zmq message arrived on closed channel
+[W 10:56:03.429 LabApp] zmq message arrived on closed channel
+[W 10:56:03.429 LabApp] zmq message arrived on closed channel
+[W 10:56:03.429 LabApp] zmq message arrived on closed channel
+[W 10:56:03.430 LabApp] zmq message arrived on closed channel
+[W 10:56:03.430 LabApp] zmq message arrived on closed channel
+[W 10:56:03.430 LabApp] zmq message arrived on closed channel
+[W 10:56:03.430 LabApp] zmq message arrived on closed channel
+[W 10:56:03.431 LabApp] zmq message arrived on closed channel
+[W 10:56:03.431 LabApp] zmq message arrived on closed channel
+[W 10:56:03.431 LabApp] zmq message arrived on closed channel
+[W 10:56:03.431 LabApp] zmq message arrived on closed channel
+[W 10:56:03.432 LabApp] zmq message arrived on closed channel
+[W 10:56:03.432 LabApp] zmq message arrived on closed channel
+[W 10:56:03.432 LabApp] zmq message arrived on closed channel
+[W 10:56:03.432 LabApp] zmq message arrived on closed channel
+[W 10:56:03.433 LabApp] zmq message arrived on closed channel
+[W 10:56:03.433 LabApp] zmq message arrived on closed channel
+[W 10:56:03.433 LabApp] zmq message arrived on closed channel
+[W 10:56:03.433 LabApp] zmq message arrived on closed channel
+[W 10:56:03.434 LabApp] zmq message arrived on closed channel
+[W 10:56:03.434 LabApp] zmq message arrived on closed channel
+[W 10:56:03.434 LabApp] zmq message arrived on closed channel
+[W 10:56:03.434 LabApp] zmq message arrived on closed channel
+[W 10:56:03.435 LabApp] zmq message arrived on closed channel
+[W 10:56:03.435 LabApp] zmq message arrived on closed channel
+[W 10:56:03.435 LabApp] zmq message arrived on closed channel
+[W 10:56:03.435 LabApp] zmq message arrived on closed channel
+[W 10:56:03.436 LabApp] zmq message arrived on closed channel
+[W 10:56:03.436 LabApp] zmq message arrived on closed channel
+[W 10:56:03.436 LabApp] zmq message arrived on closed channel
+[W 10:56:03.436 LabApp] zmq message arrived on closed channel
+[W 10:56:03.437 LabApp] zmq message arrived on closed channel
+[W 10:56:03.437 LabApp] zmq message arrived on closed channel
+[W 10:56:03.437 LabApp] zmq message arrived on closed channel
+[W 10:56:03.437 LabApp] zmq message arrived on closed channel
+[W 10:56:03.437 LabApp] zmq message arrived on closed channel
+[W 10:56:03.438 LabApp] zmq message arrived on closed channel
+[W 10:56:03.438 LabApp] zmq message arrived on closed channel
+[W 10:56:03.438 LabApp] zmq message arrived on closed channel
+[W 10:56:03.438 LabApp] zmq message arrived on closed channel
+[W 10:56:03.438 LabApp] zmq message arrived on closed channel
+[W 10:56:03.439 LabApp] zmq message arrived on closed channel
+[W 10:56:03.439 LabApp] zmq message arrived on closed channel
+[W 10:56:03.439 LabApp] zmq message arrived on closed channel
+[W 10:56:03.439 LabApp] zmq message arrived on closed channel
+[W 10:56:03.440 LabApp] zmq message arrived on closed channel
+[W 10:56:03.440 LabApp] zmq message arrived on closed channel
+[W 10:56:03.440 LabApp] zmq message arrived on closed channel
+[W 10:56:03.440 LabApp] zmq message arrived on closed channel
+[W 10:56:03.441 LabApp] zmq message arrived on closed channel
+[W 10:56:03.441 LabApp] zmq message arrived on closed channel
+[W 10:56:03.441 LabApp] zmq message arrived on closed channel
+[W 10:56:03.441 LabApp] zmq message arrived on closed channel
+[W 10:56:03.442 LabApp] zmq message arrived on closed channel
+[W 10:56:03.442 LabApp] zmq message arrived on closed channel
+[W 10:56:03.442 LabApp] zmq message arrived on closed channel
+[W 10:56:03.442 LabApp] zmq message arrived on closed channel
+[W 10:56:03.443 LabApp] zmq message arrived on closed channel
+[W 10:56:03.443 LabApp] zmq message arrived on closed channel
+[W 10:56:03.443 LabApp] zmq message arrived on closed channel
+[W 10:56:03.443 LabApp] zmq message arrived on closed channel
+[W 10:56:03.444 LabApp] zmq message arrived on closed channel
+[W 10:56:03.444 LabApp] zmq message arrived on closed channel
+[W 10:56:03.444 LabApp] zmq message arrived on closed channel
+[W 10:56:03.444 LabApp] zmq message arrived on closed channel
+[W 10:56:03.445 LabApp] zmq message arrived on closed channel
+[W 10:56:03.445 LabApp] zmq message arrived on closed channel
+[W 10:56:03.445 LabApp] zmq message arrived on closed channel
+[W 10:56:03.445 LabApp] zmq message arrived on closed channel
+[W 10:56:03.446 LabApp] zmq message arrived on closed channel
+[W 10:56:03.446 LabApp] zmq message arrived on closed channel
+[W 10:56:03.446 LabApp] zmq message arrived on closed channel
+[W 10:56:03.446 LabApp] zmq message arrived on closed channel
+[W 10:56:03.447 LabApp] zmq message arrived on closed channel
+[W 10:56:03.447 LabApp] zmq message arrived on closed channel
+[W 10:56:03.447 LabApp] zmq message arrived on closed channel
+[W 10:56:03.447 LabApp] zmq message arrived on closed channel
+[W 10:56:03.448 LabApp] zmq message arrived on closed channel
+[W 10:56:03.448 LabApp] zmq message arrived on closed channel
+[W 10:56:03.448 LabApp] zmq message arrived on closed channel
+[W 10:56:03.448 LabApp] zmq message arrived on closed channel
+[W 10:56:03.449 LabApp] zmq message arrived on closed channel
+[W 10:56:03.449 LabApp] zmq message arrived on closed channel
+[W 10:56:03.449 LabApp] zmq message arrived on closed channel
+[W 10:56:03.449 LabApp] zmq message arrived on closed channel
+[W 10:56:03.450 LabApp] zmq message arrived on closed channel
+[W 10:56:03.450 LabApp] zmq message arrived on closed channel
+[W 10:56:03.450 LabApp] zmq message arrived on closed channel
+[W 10:56:03.450 LabApp] zmq message arrived on closed channel
+[W 10:56:03.451 LabApp] zmq message arrived on closed channel
+[W 10:56:03.451 LabApp] zmq message arrived on closed channel
+[W 10:56:03.451 LabApp] zmq message arrived on closed channel
+[W 10:56:03.451 LabApp] zmq message arrived on closed channel
+[W 10:56:03.452 LabApp] zmq message arrived on closed channel
+[W 10:56:03.452 LabApp] zmq message arrived on closed channel
+[W 10:56:03.452 LabApp] zmq message arrived on closed channel
+[W 10:56:03.452 LabApp] zmq message arrived on closed channel
+[W 10:56:03.453 LabApp] zmq message arrived on closed channel
+[W 10:56:03.453 LabApp] zmq message arrived on closed channel
+[W 10:56:03.453 LabApp] zmq message arrived on closed channel
+[W 10:56:03.453 LabApp] zmq message arrived on closed channel
+[W 10:56:03.454 LabApp] zmq message arrived on closed channel
+[W 10:56:03.454 LabApp] zmq message arrived on closed channel
+[W 10:56:03.454 LabApp] zmq message arrived on closed channel
+[W 10:56:03.455 LabApp] zmq message arrived on closed channel
+[W 10:56:03.455 LabApp] zmq message arrived on closed channel
+[W 10:56:03.455 LabApp] zmq message arrived on closed channel
+[W 10:56:03.455 LabApp] zmq message arrived on closed channel
+[W 10:56:03.456 LabApp] zmq message arrived on closed channel
+[W 10:56:03.456 LabApp] zmq message arrived on closed channel
+[W 10:56:03.456 LabApp] zmq message arrived on closed channel
+[W 10:56:03.456 LabApp] zmq message arrived on closed channel
+[W 10:56:03.457 LabApp] zmq message arrived on closed channel
+[W 10:56:03.457 LabApp] zmq message arrived on closed channel
+[W 10:56:03.457 LabApp] zmq message arrived on closed channel
+[W 10:56:03.457 LabApp] zmq message arrived on closed channel
+[W 10:56:03.458 LabApp] zmq message arrived on closed channel
+[W 10:56:03.458 LabApp] zmq message arrived on closed channel
+[W 10:56:03.458 LabApp] zmq message arrived on closed channel
+[W 10:56:03.458 LabApp] zmq message arrived on closed channel
+[W 10:56:03.459 LabApp] zmq message arrived on closed channel
+[W 10:56:03.459 LabApp] zmq message arrived on closed channel
+[W 10:56:03.459 LabApp] zmq message arrived on closed channel
+[W 10:56:03.459 LabApp] zmq message arrived on closed channel
+[W 10:56:03.460 LabApp] zmq message arrived on closed channel
+[W 10:56:03.460 LabApp] zmq message arrived on closed channel
+[W 10:56:03.460 LabApp] zmq message arrived on closed channel
+[W 10:56:03.461 LabApp] zmq message arrived on closed channel
+[W 10:56:03.461 LabApp] zmq message arrived on closed channel
+[W 10:56:03.461 LabApp] zmq message arrived on closed channel
+[W 10:56:03.461 LabApp] zmq message arrived on closed channel
+[W 10:56:03.462 LabApp] zmq message arrived on closed channel
+[W 10:56:03.462 LabApp] zmq message arrived on closed channel
+[W 10:56:03.462 LabApp] zmq message arrived on closed channel
+[W 10:56:03.462 LabApp] zmq message arrived on closed channel
+[W 10:56:03.463 LabApp] zmq message arrived on closed channel
+[W 10:56:03.463 LabApp] zmq message arrived on closed channel
+[W 10:56:03.463 LabApp] zmq message arrived on closed channel
+[W 10:56:03.463 LabApp] zmq message arrived on closed channel
+[W 10:56:03.464 LabApp] zmq message arrived on closed channel
+[W 10:56:03.464 LabApp] zmq message arrived on closed channel
+[W 10:56:03.464 LabApp] zmq message arrived on closed channel
+[W 10:56:03.465 LabApp] zmq message arrived on closed channel
+[W 10:56:03.465 LabApp] zmq message arrived on closed channel
+[W 10:56:03.465 LabApp] zmq message arrived on closed channel
+[W 10:56:03.465 LabApp] zmq message arrived on closed channel
+[W 10:56:03.466 LabApp] zmq message arrived on closed channel
+[W 10:56:03.466 LabApp] zmq message arrived on closed channel
+[W 10:56:03.466 LabApp] zmq message arrived on closed channel
+[W 10:56:03.466 LabApp] zmq message arrived on closed channel
+[W 10:56:03.467 LabApp] zmq message arrived on closed channel
+[W 10:56:03.467 LabApp] zmq message arrived on closed channel
+[W 10:56:03.467 LabApp] zmq message arrived on closed channel
+[W 10:56:03.467 LabApp] zmq message arrived on closed channel
+[W 10:56:03.468 LabApp] zmq message arrived on closed channel
+[W 10:56:03.468 LabApp] zmq message arrived on closed channel
+[W 10:56:03.468 LabApp] zmq message arrived on closed channel
+[W 10:56:03.468 LabApp] zmq message arrived on closed channel
+[W 10:56:03.469 LabApp] zmq message arrived on closed channel
+[W 10:56:03.469 LabApp] zmq message arrived on closed channel
+[W 10:56:03.469 LabApp] zmq message arrived on closed channel
+[W 10:56:03.469 LabApp] zmq message arrived on closed channel
+[W 10:56:03.470 LabApp] zmq message arrived on closed channel
+[W 10:56:03.470 LabApp] zmq message arrived on closed channel
+[W 10:56:03.470 LabApp] zmq message arrived on closed channel
+[W 10:56:03.470 LabApp] zmq message arrived on closed channel
+[W 10:56:03.471 LabApp] zmq message arrived on closed channel
+[W 10:56:03.471 LabApp] zmq message arrived on closed channel
+[W 10:56:03.471 LabApp] zmq message arrived on closed channel
+[W 10:56:03.471 LabApp] zmq message arrived on closed channel
+[W 10:56:03.472 LabApp] zmq message arrived on closed channel
+[W 10:56:03.472 LabApp] zmq message arrived on closed channel
+[W 10:56:03.472 LabApp] zmq message arrived on closed channel
+[W 10:56:03.472 LabApp] zmq message arrived on closed channel
+[W 10:56:03.473 LabApp] zmq message arrived on closed channel
+[W 10:56:03.473 LabApp] zmq message arrived on closed channel
+[W 10:56:03.473 LabApp] zmq message arrived on closed channel
+[W 10:56:03.473 LabApp] zmq message arrived on closed channel
+[W 10:56:03.474 LabApp] zmq message arrived on closed channel
+[W 10:56:03.474 LabApp] zmq message arrived on closed channel
+[W 10:56:03.474 LabApp] zmq message arrived on closed channel
+[W 10:56:03.474 LabApp] zmq message arrived on closed channel
+[W 10:56:03.475 LabApp] zmq message arrived on closed channel
+[W 10:56:03.475 LabApp] zmq message arrived on closed channel
+[W 10:56:03.475 LabApp] zmq message arrived on closed channel
+[W 10:56:03.475 LabApp] zmq message arrived on closed channel
+[W 10:56:03.476 LabApp] zmq message arrived on closed channel
+[W 10:56:03.476 LabApp] zmq message arrived on closed channel
+[W 10:56:03.476 LabApp] zmq message arrived on closed channel
+[W 10:56:03.476 LabApp] zmq message arrived on closed channel
+[W 10:56:03.477 LabApp] zmq message arrived on closed channel
+[W 10:56:03.477 LabApp] zmq message arrived on closed channel
+[W 10:56:03.477 LabApp] zmq message arrived on closed channel
+[W 10:56:03.477 LabApp] zmq message arrived on closed channel
+[W 10:56:03.478 LabApp] zmq message arrived on closed channel
+[W 10:56:03.478 LabApp] zmq message arrived on closed channel
+[W 10:56:03.478 LabApp] zmq message arrived on closed channel
+[W 10:56:03.478 LabApp] zmq message arrived on closed channel
+[W 10:56:03.479 LabApp] zmq message arrived on closed channel
+[W 10:56:03.479 LabApp] zmq message arrived on closed channel
+[W 10:56:03.479 LabApp] zmq message arrived on closed channel
+[W 10:56:03.479 LabApp] zmq message arrived on closed channel
+[W 10:56:03.480 LabApp] zmq message arrived on closed channel
+[W 10:56:03.480 LabApp] zmq message arrived on closed channel
+[W 10:56:03.480 LabApp] zmq message arrived on closed channel
+[W 10:56:03.480 LabApp] zmq message arrived on closed channel
+[W 10:56:03.481 LabApp] zmq message arrived on closed channel
+[W 10:56:03.481 LabApp] zmq message arrived on closed channel
+[W 10:56:03.481 LabApp] zmq message arrived on closed channel
+[W 10:56:03.481 LabApp] zmq message arrived on closed channel
+[W 10:56:03.482 LabApp] zmq message arrived on closed channel
+[W 10:56:03.482 LabApp] zmq message arrived on closed channel
+[W 10:56:03.482 LabApp] zmq message arrived on closed channel
+[W 10:56:03.482 LabApp] zmq message arrived on closed channel
+[W 10:56:03.483 LabApp] zmq message arrived on closed channel
+[W 10:56:03.483 LabApp] zmq message arrived on closed channel
+[W 10:56:03.483 LabApp] zmq message arrived on closed channel
+[W 10:56:03.483 LabApp] zmq message arrived on closed channel
+[W 10:56:03.484 LabApp] zmq message arrived on closed channel
+[W 10:56:03.484 LabApp] zmq message arrived on closed channel
+[W 10:56:03.484 LabApp] zmq message arrived on closed channel
+[W 10:56:03.485 LabApp] zmq message arrived on closed channel
+[W 10:56:03.485 LabApp] zmq message arrived on closed channel
+[W 10:56:03.485 LabApp] zmq message arrived on closed channel
+[W 10:56:03.485 LabApp] zmq message arrived on closed channel
+[W 10:56:03.486 LabApp] zmq message arrived on closed channel
+[W 10:56:03.486 LabApp] zmq message arrived on closed channel
+[W 10:56:03.486 LabApp] zmq message arrived on closed channel
+[W 10:56:03.486 LabApp] zmq message arrived on closed channel
+[W 10:56:03.487 LabApp] zmq message arrived on closed channel
+[W 10:56:03.487 LabApp] zmq message arrived on closed channel
+[W 10:56:03.487 LabApp] zmq message arrived on closed channel
+[W 10:56:03.487 LabApp] zmq message arrived on closed channel
+[W 10:56:03.488 LabApp] zmq message arrived on closed channel
+[W 10:56:03.488 LabApp] zmq message arrived on closed channel
+[W 10:56:03.488 LabApp] zmq message arrived on closed channel
+[W 10:56:03.488 LabApp] zmq message arrived on closed channel
+[W 10:56:03.489 LabApp] zmq message arrived on closed channel
+[W 10:56:03.489 LabApp] zmq message arrived on closed channel
+[W 10:56:03.489 LabApp] zmq message arrived on closed channel
+[W 10:56:03.489 LabApp] zmq message arrived on closed channel
+[W 10:56:03.490 LabApp] zmq message arrived on closed channel
+[W 10:56:03.490 LabApp] zmq message arrived on closed channel
+[W 10:56:03.490 LabApp] zmq message arrived on closed channel
+[W 10:56:03.490 LabApp] zmq message arrived on closed channel
+[W 10:56:03.491 LabApp] zmq message arrived on closed channel
+[W 10:56:03.491 LabApp] zmq message arrived on closed channel
+[W 10:56:03.491 LabApp] zmq message arrived on closed channel
+[W 10:56:03.491 LabApp] zmq message arrived on closed channel
+[W 10:56:03.492 LabApp] zmq message arrived on closed channel
+[W 10:56:03.492 LabApp] zmq message arrived on closed channel
+[W 10:56:03.492 LabApp] zmq message arrived on closed channel
+[W 10:56:03.492 LabApp] zmq message arrived on closed channel
+[W 10:56:03.493 LabApp] zmq message arrived on closed channel
+[W 10:56:03.493 LabApp] zmq message arrived on closed channel
+[W 10:56:03.493 LabApp] zmq message arrived on closed channel
+[W 10:56:03.493 LabApp] zmq message arrived on closed channel
+[W 10:56:03.494 LabApp] zmq message arrived on closed channel
+[W 10:56:03.494 LabApp] zmq message arrived on closed channel
+[W 10:56:03.494 LabApp] zmq message arrived on closed channel
+[W 10:56:03.494 LabApp] zmq message arrived on closed channel
+[W 10:56:03.495 LabApp] zmq message arrived on closed channel
+[W 10:56:03.495 LabApp] zmq message arrived on closed channel
+[W 10:56:03.495 LabApp] zmq message arrived on closed channel
+[W 10:56:03.495 LabApp] zmq message arrived on closed channel
+[W 10:56:03.496 LabApp] zmq message arrived on closed channel
+[W 10:56:03.496 LabApp] zmq message arrived on closed channel
+[W 10:56:03.496 LabApp] zmq message arrived on closed channel
+[W 10:56:03.496 LabApp] zmq message arrived on closed channel
+[W 10:56:03.497 LabApp] zmq message arrived on closed channel
+[W 10:56:03.497 LabApp] zmq message arrived on closed channel
+[W 10:56:03.497 LabApp] zmq message arrived on closed channel
+[W 10:56:03.497 LabApp] zmq message arrived on closed channel
+[W 10:56:03.498 LabApp] zmq message arrived on closed channel
+[W 10:56:03.498 LabApp] zmq message arrived on closed channel
+[W 10:56:03.498 LabApp] zmq message arrived on closed channel
+[W 10:56:03.498 LabApp] zmq message arrived on closed channel
+[W 10:56:03.499 LabApp] zmq message arrived on closed channel
+[W 10:56:03.499 LabApp] zmq message arrived on closed channel
+[W 10:56:03.499 LabApp] zmq message arrived on closed channel
+[W 10:56:03.499 LabApp] zmq message arrived on closed channel
+[W 10:56:03.500 LabApp] zmq message arrived on closed channel
+[W 10:56:03.500 LabApp] zmq message arrived on closed channel
+[W 10:56:03.500 LabApp] zmq message arrived on closed channel
+[W 10:56:03.500 LabApp] zmq message arrived on closed channel
+[W 10:56:03.501 LabApp] zmq message arrived on closed channel
+[W 10:56:03.501 LabApp] zmq message arrived on closed channel
+[W 10:56:03.501 LabApp] zmq message arrived on closed channel
+[W 10:56:03.501 LabApp] zmq message arrived on closed channel
+[W 10:56:03.502 LabApp] zmq message arrived on closed channel
+[W 10:56:03.502 LabApp] zmq message arrived on closed channel
+[W 10:56:03.502 LabApp] zmq message arrived on closed channel
+[W 10:56:03.502 LabApp] zmq message arrived on closed channel
+[W 10:56:03.503 LabApp] zmq message arrived on closed channel
+[W 10:56:03.503 LabApp] zmq message arrived on closed channel
+[W 10:56:03.503 LabApp] zmq message arrived on closed channel
+[W 10:56:03.503 LabApp] zmq message arrived on closed channel
+[W 10:56:03.504 LabApp] zmq message arrived on closed channel
+[W 10:56:03.504 LabApp] zmq message arrived on closed channel
+[W 10:56:03.504 LabApp] zmq message arrived on closed channel
+[W 10:56:03.505 LabApp] zmq message arrived on closed channel
+[W 10:56:03.505 LabApp] zmq message arrived on closed channel
+[W 10:56:03.505 LabApp] zmq message arrived on closed channel
+[W 10:56:03.505 LabApp] zmq message arrived on closed channel
+[W 10:56:03.506 LabApp] zmq message arrived on closed channel
+[W 10:56:03.506 LabApp] zmq message arrived on closed channel
+[W 10:56:03.506 LabApp] zmq message arrived on closed channel
+[W 10:56:03.506 LabApp] zmq message arrived on closed channel
+[W 10:56:03.507 LabApp] zmq message arrived on closed channel
+[W 10:56:03.507 LabApp] zmq message arrived on closed channel
+[W 10:56:03.507 LabApp] zmq message arrived on closed channel
+[W 10:56:03.507 LabApp] zmq message arrived on closed channel
+[W 10:56:03.508 LabApp] zmq message arrived on closed channel
+[W 10:56:03.508 LabApp] zmq message arrived on closed channel
+[W 10:56:03.508 LabApp] zmq message arrived on closed channel
+[W 10:56:03.508 LabApp] zmq message arrived on closed channel
+[W 10:56:03.509 LabApp] zmq message arrived on closed channel
+[W 10:56:03.509 LabApp] zmq message arrived on closed channel
+[W 10:56:03.509 LabApp] zmq message arrived on closed channel
+[W 10:56:03.509 LabApp] zmq message arrived on closed channel
+[W 10:56:03.510 LabApp] zmq message arrived on closed channel
+[W 10:56:03.510 LabApp] zmq message arrived on closed channel
+[W 10:56:03.510 LabApp] zmq message arrived on closed channel
+[W 10:56:03.510 LabApp] zmq message arrived on closed channel
+[W 10:56:03.511 LabApp] zmq message arrived on closed channel
+[W 10:56:03.511 LabApp] zmq message arrived on closed channel
+[W 10:56:03.511 LabApp] zmq message arrived on closed channel
+[W 10:56:03.511 LabApp] zmq message arrived on closed channel
+[W 10:56:03.512 LabApp] zmq message arrived on closed channel
+[W 10:56:03.512 LabApp] zmq message arrived on closed channel
+[W 10:56:03.512 LabApp] zmq message arrived on closed channel
+[W 10:56:03.512 LabApp] zmq message arrived on closed channel
+[W 10:56:03.513 LabApp] zmq message arrived on closed channel
+[W 10:56:03.513 LabApp] zmq message arrived on closed channel
+[W 10:56:03.513 LabApp] zmq message arrived on closed channel
+[W 10:56:03.513 LabApp] zmq message arrived on closed channel
+[W 10:56:03.514 LabApp] zmq message arrived on closed channel
+[W 10:56:03.514 LabApp] zmq message arrived on closed channel
+[W 10:56:03.514 LabApp] zmq message arrived on closed channel
+[W 10:56:03.514 LabApp] zmq message arrived on closed channel
+[W 10:56:03.515 LabApp] zmq message arrived on closed channel
+[W 10:56:03.515 LabApp] zmq message arrived on closed channel
+[W 10:56:03.515 LabApp] zmq message arrived on closed channel
+[W 10:56:03.515 LabApp] zmq message arrived on closed channel
+[W 10:56:03.516 LabApp] zmq message arrived on closed channel
+[W 10:56:03.516 LabApp] zmq message arrived on closed channel
+[W 10:56:03.516 LabApp] zmq message arrived on closed channel
+[W 10:56:03.516 LabApp] zmq message arrived on closed channel
+[W 10:56:03.517 LabApp] zmq message arrived on closed channel
+[W 10:56:03.517 LabApp] zmq message arrived on closed channel
+[W 10:56:03.517 LabApp] zmq message arrived on closed channel
+[W 10:56:03.517 LabApp] zmq message arrived on closed channel
+[W 10:56:03.518 LabApp] zmq message arrived on closed channel
+[W 10:56:03.518 LabApp] zmq message arrived on closed channel
+[W 10:56:03.518 LabApp] zmq message arrived on closed channel
+[W 10:56:03.519 LabApp] zmq message arrived on closed channel
+[W 10:56:03.519 LabApp] zmq message arrived on closed channel
+[W 10:56:03.519 LabApp] zmq message arrived on closed channel
+[W 10:56:03.519 LabApp] zmq message arrived on closed channel
+[W 10:56:03.520 LabApp] zmq message arrived on closed channel
+[W 10:56:03.520 LabApp] zmq message arrived on closed channel
+[W 10:56:03.520 LabApp] zmq message arrived on closed channel
+[W 10:56:03.520 LabApp] zmq message arrived on closed channel
+[W 10:56:03.521 LabApp] zmq message arrived on closed channel
+[W 10:56:03.521 LabApp] zmq message arrived on closed channel
+[W 10:56:03.521 LabApp] zmq message arrived on closed channel
+[W 10:56:03.521 LabApp] zmq message arrived on closed channel
+[W 10:56:03.522 LabApp] zmq message arrived on closed channel
+[W 10:56:03.522 LabApp] zmq message arrived on closed channel
+[W 10:56:03.522 LabApp] zmq message arrived on closed channel
+[W 10:56:03.522 LabApp] zmq message arrived on closed channel
+[W 10:56:03.523 LabApp] zmq message arrived on closed channel
+[W 10:56:03.523 LabApp] zmq message arrived on closed channel
+[W 10:56:03.523 LabApp] zmq message arrived on closed channel
+[W 10:56:03.523 LabApp] zmq message arrived on closed channel
+[W 10:56:03.524 LabApp] zmq message arrived on closed channel
+[W 10:56:03.524 LabApp] zmq message arrived on closed channel
+[W 10:56:03.524 LabApp] zmq message arrived on closed channel
+[W 10:56:03.524 LabApp] zmq message arrived on closed channel
+[W 10:56:03.525 LabApp] zmq message arrived on closed channel
+[W 10:56:03.525 LabApp] zmq message arrived on closed channel
+[W 10:56:03.525 LabApp] zmq message arrived on closed channel
+[W 10:56:03.525 LabApp] zmq message arrived on closed channel
+[W 10:56:03.526 LabApp] zmq message arrived on closed channel
+[W 10:56:03.526 LabApp] zmq message arrived on closed channel
+[W 10:56:03.526 LabApp] zmq message arrived on closed channel
+[W 10:56:03.526 LabApp] zmq message arrived on closed channel
+[W 10:56:03.527 LabApp] zmq message arrived on closed channel
+[W 10:56:03.527 LabApp] zmq message arrived on closed channel
+[W 10:56:03.527 LabApp] zmq message arrived on closed channel
+[W 10:56:03.527 LabApp] zmq message arrived on closed channel
+[W 10:56:03.528 LabApp] zmq message arrived on closed channel
+[W 10:56:03.528 LabApp] zmq message arrived on closed channel
+[W 10:56:03.528 LabApp] zmq message arrived on closed channel
+[W 10:56:03.528 LabApp] zmq message arrived on closed channel
+[W 10:56:03.529 LabApp] zmq message arrived on closed channel
+[W 10:56:03.529 LabApp] zmq message arrived on closed channel
+[W 10:56:03.529 LabApp] zmq message arrived on closed channel
+[W 10:56:03.529 LabApp] zmq message arrived on closed channel
+[W 10:56:03.530 LabApp] zmq message arrived on closed channel
+[W 10:56:03.530 LabApp] zmq message arrived on closed channel
+[W 10:56:03.530 LabApp] zmq message arrived on closed channel
+[W 10:56:03.530 LabApp] zmq message arrived on closed channel
+[W 10:56:03.531 LabApp] zmq message arrived on closed channel
+[W 10:56:03.531 LabApp] zmq message arrived on closed channel
+[W 10:56:03.531 LabApp] zmq message arrived on closed channel
+[W 10:56:03.531 LabApp] zmq message arrived on closed channel
+[W 10:56:03.532 LabApp] zmq message arrived on closed channel
+[W 10:56:03.532 LabApp] zmq message arrived on closed channel
+[W 10:56:03.532 LabApp] zmq message arrived on closed channel
+[W 10:56:03.532 LabApp] zmq message arrived on closed channel
+[W 10:56:03.533 LabApp] zmq message arrived on closed channel
+[W 10:56:03.533 LabApp] zmq message arrived on closed channel
+[W 10:56:03.533 LabApp] zmq message arrived on closed channel
+[W 10:56:03.533 LabApp] zmq message arrived on closed channel
+[W 10:56:03.534 LabApp] zmq message arrived on closed channel
+[W 10:56:03.534 LabApp] zmq message arrived on closed channel
+[W 10:56:03.534 LabApp] zmq message arrived on closed channel
+[W 10:56:03.535 LabApp] zmq message arrived on closed channel
+[W 10:56:03.535 LabApp] zmq message arrived on closed channel
+[W 10:56:03.535 LabApp] zmq message arrived on closed channel
+[W 10:56:03.535 LabApp] zmq message arrived on closed channel
+[W 10:56:03.536 LabApp] zmq message arrived on closed channel
+[W 10:56:03.536 LabApp] zmq message arrived on closed channel
+[W 10:56:03.536 LabApp] zmq message arrived on closed channel
+[W 10:56:03.536 LabApp] zmq message arrived on closed channel
+[W 10:56:03.537 LabApp] zmq message arrived on closed channel
+[W 10:56:03.537 LabApp] zmq message arrived on closed channel
+[W 10:56:03.537 LabApp] zmq message arrived on closed channel
+[W 10:56:03.537 LabApp] zmq message arrived on closed channel
+[W 10:56:03.538 LabApp] zmq message arrived on closed channel
+[W 10:56:03.538 LabApp] zmq message arrived on closed channel
+[W 10:56:03.538 LabApp] zmq message arrived on closed channel
+[W 10:56:03.538 LabApp] zmq message arrived on closed channel
+[W 10:56:03.539 LabApp] zmq message arrived on closed channel
+[W 10:56:03.539 LabApp] zmq message arrived on closed channel
+[W 10:56:03.539 LabApp] zmq message arrived on closed channel
+[W 10:56:03.539 LabApp] zmq message arrived on closed channel
+[W 10:56:03.540 LabApp] zmq message arrived on closed channel
+[W 10:56:03.540 LabApp] zmq message arrived on closed channel
+[W 10:56:03.540 LabApp] zmq message arrived on closed channel
+[W 10:56:03.540 LabApp] zmq message arrived on closed channel
+[W 10:56:03.541 LabApp] zmq message arrived on closed channel
+[W 10:56:03.541 LabApp] zmq message arrived on closed channel
+[W 10:56:03.541 LabApp] zmq message arrived on closed channel
+[W 10:56:03.541 LabApp] zmq message arrived on closed channel
+[W 10:56:03.542 LabApp] zmq message arrived on closed channel
+[W 10:56:03.542 LabApp] zmq message arrived on closed channel
+[W 10:56:03.542 LabApp] zmq message arrived on closed channel
+[W 10:56:03.542 LabApp] zmq message arrived on closed channel
+[W 10:56:03.543 LabApp] zmq message arrived on closed channel
+[W 10:56:03.543 LabApp] zmq message arrived on closed channel
+[W 10:56:03.543 LabApp] zmq message arrived on closed channel
+[W 10:56:03.543 LabApp] zmq message arrived on closed channel
+[W 10:56:03.544 LabApp] zmq message arrived on closed channel
+[W 10:56:03.544 LabApp] zmq message arrived on closed channel
+[W 10:56:03.544 LabApp] zmq message arrived on closed channel
+[W 10:56:03.544 LabApp] zmq message arrived on closed channel
+[W 10:56:03.545 LabApp] zmq message arrived on closed channel
+[W 10:56:03.545 LabApp] zmq message arrived on closed channel
+[W 10:56:03.545 LabApp] zmq message arrived on closed channel
+[W 10:56:03.545 LabApp] zmq message arrived on closed channel
+[W 10:56:03.546 LabApp] zmq message arrived on closed channel
+[W 10:56:03.546 LabApp] zmq message arrived on closed channel
+[W 10:56:03.546 LabApp] zmq message arrived on closed channel
+[W 10:56:03.546 LabApp] zmq message arrived on closed channel
+[W 10:56:03.547 LabApp] zmq message arrived on closed channel
+[W 10:56:03.547 LabApp] zmq message arrived on closed channel
+[W 10:56:03.547 LabApp] zmq message arrived on closed channel
+[W 10:56:03.547 LabApp] zmq message arrived on closed channel
+[W 10:56:03.548 LabApp] zmq message arrived on closed channel
+[W 10:56:03.548 LabApp] zmq message arrived on closed channel
+[W 10:56:03.548 LabApp] zmq message arrived on closed channel
+[W 10:56:03.548 LabApp] zmq message arrived on closed channel
+[W 10:56:03.549 LabApp] zmq message arrived on closed channel
+[W 10:56:03.549 LabApp] zmq message arrived on closed channel
+[W 10:56:03.549 LabApp] zmq message arrived on closed channel
+[W 10:56:03.550 LabApp] zmq message arrived on closed channel
+[W 10:56:03.550 LabApp] zmq message arrived on closed channel
+[W 10:56:03.550 LabApp] zmq message arrived on closed channel
+[W 10:56:03.550 LabApp] zmq message arrived on closed channel
+[W 10:56:03.551 LabApp] zmq message arrived on closed channel
+[W 10:56:03.551 LabApp] zmq message arrived on closed channel
+[W 10:56:03.551 LabApp] zmq message arrived on closed channel
+[W 10:56:03.551 LabApp] zmq message arrived on closed channel
+[W 10:56:03.552 LabApp] zmq message arrived on closed channel
+[W 10:56:03.552 LabApp] zmq message arrived on closed channel
+[W 10:56:03.552 LabApp] zmq message arrived on closed channel
+[W 10:56:03.552 LabApp] zmq message arrived on closed channel
+[W 10:56:03.553 LabApp] zmq message arrived on closed channel
+[W 10:56:03.553 LabApp] zmq message arrived on closed channel
+[W 10:56:03.553 LabApp] zmq message arrived on closed channel
+[W 10:56:03.553 LabApp] zmq message arrived on closed channel
+[W 10:56:03.554 LabApp] zmq message arrived on closed channel
+[W 10:56:03.554 LabApp] zmq message arrived on closed channel
+[W 10:56:03.554 LabApp] zmq message arrived on closed channel
+[W 10:56:03.554 LabApp] zmq message arrived on closed channel
+[W 10:56:03.555 LabApp] zmq message arrived on closed channel
+[W 10:56:03.555 LabApp] zmq message arrived on closed channel
+[W 10:56:03.555 LabApp] zmq message arrived on closed channel
+[W 10:56:03.555 LabApp] zmq message arrived on closed channel
+[W 10:56:03.556 LabApp] zmq message arrived on closed channel
+[W 10:56:03.556 LabApp] zmq message arrived on closed channel
+[W 10:56:03.556 LabApp] zmq message arrived on closed channel
+[W 10:56:03.556 LabApp] zmq message arrived on closed channel
+[W 10:56:03.557 LabApp] zmq message arrived on closed channel
+[W 10:56:03.557 LabApp] zmq message arrived on closed channel
+[W 10:56:03.557 LabApp] zmq message arrived on closed channel
+[W 10:56:03.557 LabApp] zmq message arrived on closed channel
+[W 10:56:03.558 LabApp] zmq message arrived on closed channel
+[W 10:56:03.558 LabApp] zmq message arrived on closed channel
+[W 10:56:03.558 LabApp] zmq message arrived on closed channel
+[W 10:56:03.558 LabApp] zmq message arrived on closed channel
+[W 10:56:03.559 LabApp] zmq message arrived on closed channel
+[W 10:56:03.559 LabApp] zmq message arrived on closed channel
+[W 10:56:03.559 LabApp] zmq message arrived on closed channel
+[W 10:56:03.559 LabApp] zmq message arrived on closed channel
+[W 10:56:03.560 LabApp] zmq message arrived on closed channel
+[W 10:56:03.560 LabApp] zmq message arrived on closed channel
+[W 10:56:03.560 LabApp] zmq message arrived on closed channel
+[W 10:56:03.560 LabApp] zmq message arrived on closed channel
+[W 10:56:03.561 LabApp] zmq message arrived on closed channel
+[W 10:56:03.561 LabApp] zmq message arrived on closed channel
+[W 10:56:03.561 LabApp] zmq message arrived on closed channel
+[W 10:56:03.562 LabApp] zmq message arrived on closed channel
+[W 10:56:03.562 LabApp] zmq message arrived on closed channel
+[W 10:56:03.562 LabApp] zmq message arrived on closed channel
+[W 10:56:03.562 LabApp] zmq message arrived on closed channel
+[W 10:56:03.563 LabApp] zmq message arrived on closed channel
+[W 10:56:03.563 LabApp] zmq message arrived on closed channel
+[W 10:56:03.563 LabApp] zmq message arrived on closed channel
+[W 10:56:03.563 LabApp] zmq message arrived on closed channel
+[W 10:56:03.564 LabApp] zmq message arrived on closed channel
+[W 10:56:03.564 LabApp] zmq message arrived on closed channel
+[W 10:56:03.564 LabApp] zmq message arrived on closed channel
+[W 10:56:03.564 LabApp] zmq message arrived on closed channel
+[W 10:56:03.565 LabApp] zmq message arrived on closed channel
+[W 10:56:03.565 LabApp] zmq message arrived on closed channel
+[W 10:56:03.565 LabApp] zmq message arrived on closed channel
+[W 10:56:03.565 LabApp] zmq message arrived on closed channel
+[W 10:56:03.566 LabApp] zmq message arrived on closed channel
+[W 10:56:03.566 LabApp] zmq message arrived on closed channel
+[W 10:56:03.566 LabApp] zmq message arrived on closed channel
+[W 10:56:03.566 LabApp] zmq message arrived on closed channel
+[W 10:56:03.567 LabApp] zmq message arrived on closed channel
+[W 10:56:03.567 LabApp] zmq message arrived on closed channel
+[W 10:56:03.567 LabApp] zmq message arrived on closed channel
+[W 10:56:03.567 LabApp] zmq message arrived on closed channel
+[W 10:56:03.568 LabApp] zmq message arrived on closed channel
+[W 10:56:03.568 LabApp] zmq message arrived on closed channel
+[W 10:56:03.568 LabApp] zmq message arrived on closed channel
+[W 10:56:03.568 LabApp] zmq message arrived on closed channel
+[W 10:56:03.569 LabApp] zmq message arrived on closed channel
+[W 10:56:03.569 LabApp] zmq message arrived on closed channel
+[W 10:56:03.569 LabApp] zmq message arrived on closed channel
+[W 10:56:03.569 LabApp] zmq message arrived on closed channel
+[W 10:56:03.570 LabApp] zmq message arrived on closed channel
+[W 10:56:03.570 LabApp] zmq message arrived on closed channel
+[W 10:56:03.570 LabApp] zmq message arrived on closed channel
+[W 10:56:03.570 LabApp] zmq message arrived on closed channel
+[W 10:56:03.571 LabApp] zmq message arrived on closed channel
+[W 10:56:03.571 LabApp] zmq message arrived on closed channel
+[W 10:56:03.571 LabApp] zmq message arrived on closed channel
+[W 10:56:03.571 LabApp] zmq message arrived on closed channel
+[W 10:56:03.572 LabApp] zmq message arrived on closed channel
+[W 10:56:03.572 LabApp] zmq message arrived on closed channel
+[W 10:56:03.572 LabApp] zmq message arrived on closed channel
+[W 10:56:03.572 LabApp] zmq message arrived on closed channel
+[W 10:56:03.573 LabApp] zmq message arrived on closed channel
+[W 10:56:03.573 LabApp] zmq message arrived on closed channel
+[W 10:56:03.573 LabApp] zmq message arrived on closed channel
+[W 10:56:03.573 LabApp] zmq message arrived on closed channel
+[W 10:56:03.574 LabApp] zmq message arrived on closed channel
+[W 10:56:03.574 LabApp] zmq message arrived on closed channel
+[W 10:56:03.574 LabApp] zmq message arrived on closed channel
+[W 10:56:03.574 LabApp] zmq message arrived on closed channel
+[W 10:56:03.575 LabApp] zmq message arrived on closed channel
+[W 10:56:03.575 LabApp] zmq message arrived on closed channel
+[W 10:56:03.575 LabApp] zmq message arrived on closed channel
+[W 10:56:03.575 LabApp] zmq message arrived on closed channel
+[W 10:56:03.576 LabApp] zmq message arrived on closed channel
+[W 10:56:03.576 LabApp] zmq message arrived on closed channel
+[W 10:56:03.576 LabApp] zmq message arrived on closed channel
+[W 10:56:03.576 LabApp] zmq message arrived on closed channel
+[W 10:56:03.577 LabApp] zmq message arrived on closed channel
+[W 10:56:03.577 LabApp] zmq message arrived on closed channel
+[W 10:56:03.577 LabApp] zmq message arrived on closed channel
+[W 10:56:03.577 LabApp] zmq message arrived on closed channel
+[W 10:56:03.578 LabApp] zmq message arrived on closed channel
+[W 10:56:03.578 LabApp] zmq message arrived on closed channel
+[W 10:56:03.578 LabApp] zmq message arrived on closed channel
+[W 10:56:03.578 LabApp] zmq message arrived on closed channel
+[W 10:56:03.579 LabApp] zmq message arrived on closed channel
+[W 10:56:03.579 LabApp] zmq message arrived on closed channel
+[W 10:56:03.579 LabApp] zmq message arrived on closed channel
+[W 10:56:03.580 LabApp] zmq message arrived on closed channel
+[W 10:56:03.580 LabApp] zmq message arrived on closed channel
+[W 10:56:03.580 LabApp] zmq message arrived on closed channel
+[W 10:56:03.580 LabApp] zmq message arrived on closed channel
+[W 10:56:03.581 LabApp] zmq message arrived on closed channel
+[W 10:56:03.581 LabApp] zmq message arrived on closed channel
+[W 10:56:03.581 LabApp] zmq message arrived on closed channel
+[W 10:56:03.581 LabApp] zmq message arrived on closed channel
+[W 10:56:03.582 LabApp] zmq message arrived on closed channel
+[W 10:56:03.582 LabApp] zmq message arrived on closed channel
+[W 10:56:03.582 LabApp] zmq message arrived on closed channel
+[W 10:56:03.582 LabApp] zmq message arrived on closed channel
+[W 10:56:03.583 LabApp] zmq message arrived on closed channel
+[W 10:56:03.583 LabApp] zmq message arrived on closed channel
+[W 10:56:03.583 LabApp] zmq message arrived on closed channel
+[W 10:56:03.583 LabApp] zmq message arrived on closed channel
+[W 10:56:03.584 LabApp] zmq message arrived on closed channel
+[W 10:56:03.584 LabApp] zmq message arrived on closed channel
+[W 10:56:03.584 LabApp] zmq message arrived on closed channel
+[W 10:56:03.584 LabApp] zmq message arrived on closed channel
+[W 10:56:03.585 LabApp] zmq message arrived on closed channel
+[W 10:56:03.585 LabApp] zmq message arrived on closed channel
+[W 10:56:03.585 LabApp] zmq message arrived on closed channel
+[W 10:56:03.585 LabApp] zmq message arrived on closed channel
+[W 10:56:03.586 LabApp] zmq message arrived on closed channel
+[W 10:56:03.586 LabApp] zmq message arrived on closed channel
+[W 10:56:03.586 LabApp] zmq message arrived on closed channel
+[W 10:56:03.586 LabApp] zmq message arrived on closed channel
+[W 10:56:03.587 LabApp] zmq message arrived on closed channel
+[W 10:56:03.587 LabApp] zmq message arrived on closed channel
+[W 10:56:03.587 LabApp] zmq message arrived on closed channel
+[W 10:56:03.587 LabApp] zmq message arrived on closed channel
+[W 10:56:03.588 LabApp] zmq message arrived on closed channel
+[W 10:56:03.588 LabApp] zmq message arrived on closed channel
+[W 10:56:03.588 LabApp] zmq message arrived on closed channel
+[W 10:56:03.588 LabApp] zmq message arrived on closed channel
+[W 10:56:03.589 LabApp] zmq message arrived on closed channel
+[W 10:56:03.589 LabApp] zmq message arrived on closed channel
+[W 10:56:03.589 LabApp] zmq message arrived on closed channel
+[W 10:56:03.589 LabApp] zmq message arrived on closed channel
+[W 10:56:03.590 LabApp] zmq message arrived on closed channel
+[W 10:56:03.590 LabApp] zmq message arrived on closed channel
+[W 10:56:03.590 LabApp] zmq message arrived on closed channel
+[W 10:56:03.590 LabApp] zmq message arrived on closed channel
+[W 10:56:03.591 LabApp] zmq message arrived on closed channel
+[W 10:56:03.591 LabApp] zmq message arrived on closed channel
+[W 10:56:03.591 LabApp] zmq message arrived on closed channel
+[W 10:56:03.591 LabApp] zmq message arrived on closed channel
+[W 10:56:03.592 LabApp] zmq message arrived on closed channel
+[W 10:56:03.592 LabApp] zmq message arrived on closed channel
+[W 10:56:03.592 LabApp] zmq message arrived on closed channel
+[W 10:56:03.593 LabApp] zmq message arrived on closed channel
+[W 10:56:03.593 LabApp] zmq message arrived on closed channel
+[W 10:56:03.593 LabApp] zmq message arrived on closed channel
+[W 10:56:03.593 LabApp] zmq message arrived on closed channel
+[W 10:56:03.594 LabApp] zmq message arrived on closed channel
+[W 10:56:03.594 LabApp] zmq message arrived on closed channel
+[W 10:56:03.594 LabApp] zmq message arrived on closed channel
+[W 10:56:03.594 LabApp] zmq message arrived on closed channel
+[W 10:56:03.595 LabApp] zmq message arrived on closed channel
+[W 10:56:03.595 LabApp] zmq message arrived on closed channel
+[W 10:56:03.595 LabApp] zmq message arrived on closed channel
+[W 10:56:03.595 LabApp] zmq message arrived on closed channel
+[W 10:56:03.596 LabApp] zmq message arrived on closed channel
+[W 10:56:03.596 LabApp] zmq message arrived on closed channel
+[W 10:56:03.596 LabApp] zmq message arrived on closed channel
+[W 10:56:03.596 LabApp] zmq message arrived on closed channel
+[W 10:56:03.597 LabApp] zmq message arrived on closed channel
+[W 10:56:03.597 LabApp] zmq message arrived on closed channel
+[W 10:56:03.597 LabApp] zmq message arrived on closed channel
+[W 10:56:03.597 LabApp] zmq message arrived on closed channel
+[W 10:56:03.598 LabApp] zmq message arrived on closed channel
+[W 10:56:03.598 LabApp] zmq message arrived on closed channel
+[W 10:56:03.598 LabApp] zmq message arrived on closed channel
+[W 10:56:03.598 LabApp] zmq message arrived on closed channel
+[W 10:56:03.599 LabApp] zmq message arrived on closed channel
+[W 10:56:03.599 LabApp] zmq message arrived on closed channel
+[W 10:56:03.599 LabApp] zmq message arrived on closed channel
+[W 10:56:03.599 LabApp] zmq message arrived on closed channel
+[W 10:56:03.600 LabApp] zmq message arrived on closed channel
+[W 10:56:03.600 LabApp] zmq message arrived on closed channel
+[W 10:56:03.600 LabApp] zmq message arrived on closed channel
+[W 10:56:03.600 LabApp] zmq message arrived on closed channel
+[W 10:56:03.601 LabApp] zmq message arrived on closed channel
+[W 10:56:03.601 LabApp] zmq message arrived on closed channel
+[W 10:56:03.601 LabApp] zmq message arrived on closed channel
+[W 10:56:03.601 LabApp] zmq message arrived on closed channel
+[W 10:56:03.602 LabApp] zmq message arrived on closed channel
+[W 10:56:03.602 LabApp] zmq message arrived on closed channel
+[W 10:56:03.602 LabApp] zmq message arrived on closed channel
+[W 10:56:03.602 LabApp] zmq message arrived on closed channel
+[W 10:56:03.603 LabApp] zmq message arrived on closed channel
+[W 10:56:03.603 LabApp] zmq message arrived on closed channel
+[W 10:56:03.603 LabApp] zmq message arrived on closed channel
+[W 10:56:03.603 LabApp] zmq message arrived on closed channel
+[W 10:56:03.604 LabApp] zmq message arrived on closed channel
+[W 10:56:03.604 LabApp] zmq message arrived on closed channel
+[W 10:56:03.604 LabApp] zmq message arrived on closed channel
+[W 10:56:03.605 LabApp] zmq message arrived on closed channel
+[W 10:56:03.605 LabApp] zmq message arrived on closed channel
+[W 10:56:03.605 LabApp] zmq message arrived on closed channel
+[W 10:56:03.605 LabApp] zmq message arrived on closed channel
+[W 10:56:03.606 LabApp] zmq message arrived on closed channel
+[W 10:56:03.606 LabApp] zmq message arrived on closed channel
+[W 10:56:03.606 LabApp] zmq message arrived on closed channel
+[W 10:56:03.606 LabApp] zmq message arrived on closed channel
+[W 10:56:03.607 LabApp] zmq message arrived on closed channel
+[W 10:56:03.607 LabApp] zmq message arrived on closed channel
+[W 10:56:03.607 LabApp] zmq message arrived on closed channel
+[W 10:56:03.607 LabApp] zmq message arrived on closed channel
+[W 10:56:03.608 LabApp] zmq message arrived on closed channel
+[W 10:56:03.608 LabApp] zmq message arrived on closed channel
+[W 10:56:03.608 LabApp] zmq message arrived on closed channel
+[W 10:56:03.608 LabApp] zmq message arrived on closed channel
+[W 10:56:03.609 LabApp] zmq message arrived on closed channel
+[W 10:56:03.609 LabApp] zmq message arrived on closed channel
+[W 10:56:03.609 LabApp] zmq message arrived on closed channel
+[W 10:56:03.609 LabApp] zmq message arrived on closed channel
+[W 10:56:03.610 LabApp] zmq message arrived on closed channel
+[W 10:56:03.610 LabApp] zmq message arrived on closed channel
+[W 10:56:03.610 LabApp] zmq message arrived on closed channel
+[W 10:56:03.610 LabApp] zmq message arrived on closed channel
+[W 10:56:03.611 LabApp] zmq message arrived on closed channel
+[W 10:56:03.611 LabApp] zmq message arrived on closed channel
+[W 10:56:03.611 LabApp] zmq message arrived on closed channel
+[W 10:56:03.611 LabApp] zmq message arrived on closed channel
+[W 10:56:03.612 LabApp] zmq message arrived on closed channel
+[W 10:56:03.612 LabApp] zmq message arrived on closed channel
+[W 10:56:03.612 LabApp] zmq message arrived on closed channel
+[W 10:56:03.612 LabApp] zmq message arrived on closed channel
+[W 10:56:03.613 LabApp] zmq message arrived on closed channel
+[W 10:56:03.613 LabApp] zmq message arrived on closed channel
+[W 10:56:03.613 LabApp] zmq message arrived on closed channel
+[W 10:56:03.613 LabApp] zmq message arrived on closed channel
+[W 10:56:03.614 LabApp] zmq message arrived on closed channel
+[W 10:56:03.614 LabApp] zmq message arrived on closed channel
+[W 10:56:03.614 LabApp] zmq message arrived on closed channel
+[W 10:56:03.614 LabApp] zmq message arrived on closed channel
+[W 10:56:03.615 LabApp] zmq message arrived on closed channel
+[W 10:56:03.615 LabApp] zmq message arrived on closed channel
+[W 10:56:03.615 LabApp] zmq message arrived on closed channel
+[W 10:56:03.615 LabApp] zmq message arrived on closed channel
+[W 10:56:03.616 LabApp] zmq message arrived on closed channel
+[W 10:56:03.616 LabApp] zmq message arrived on closed channel
+[W 10:56:03.616 LabApp] zmq message arrived on closed channel
+[W 10:56:03.616 LabApp] zmq message arrived on closed channel
+[W 10:56:03.617 LabApp] zmq message arrived on closed channel
+[W 10:56:03.617 LabApp] zmq message arrived on closed channel
+[W 10:56:03.617 LabApp] zmq message arrived on closed channel
+[W 10:56:03.617 LabApp] zmq message arrived on closed channel
+[W 10:56:03.618 LabApp] zmq message arrived on closed channel
+[W 10:56:03.618 LabApp] zmq message arrived on closed channel
+[W 10:56:03.618 LabApp] zmq message arrived on closed channel
+[W 10:56:03.618 LabApp] zmq message arrived on closed channel
+[W 10:56:03.619 LabApp] zmq message arrived on closed channel
+[W 10:56:03.619 LabApp] zmq message arrived on closed channel
+[W 10:56:03.619 LabApp] zmq message arrived on closed channel
+[W 10:56:03.619 LabApp] zmq message arrived on closed channel
+[W 10:56:03.620 LabApp] zmq message arrived on closed channel
+[W 10:56:03.620 LabApp] zmq message arrived on closed channel
+[W 10:56:03.620 LabApp] zmq message arrived on closed channel
+[W 10:56:03.620 LabApp] zmq message arrived on closed channel
+[W 10:56:03.621 LabApp] zmq message arrived on closed channel
+[W 10:56:03.621 LabApp] zmq message arrived on closed channel
+[W 10:56:03.621 LabApp] zmq message arrived on closed channel
+[W 10:56:03.622 LabApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[E 10:56:03.622 LabApp] Uncaught exception GET /api/kernels/1324981a-9a40-43bd-9bd8-9b3c162bf219/channels?session_id=81aedfff-b82e-4cba-95de-5008725f206d (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8889', method='GET', uri='/api/kernels/1324981a-9a40-43bd-9bd8-9b3c162bf219/channels?session_id=81aedfff-b82e-4cba-95de-5008725f206d', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/remy/anaconda3/lib/python3.8/site-packages/tornado/websocket.py", line 956, in _accept_connection
+        open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+      File "/home/remy/anaconda3/lib/python3.8/site-packages/notebook/services/kernels/handlers.py", line 271, in open
+        self._on_zmq_reply(stream, msg_list)
+      File "/home/remy/anaconda3/lib/python3.8/site-packages/notebook/services/kernels/handlers.py", line 375, in _on_zmq_reply
+        write_stderr(dedent("""\
+      File "/home/remy/anaconda3/lib/python3.8/site-packages/notebook/services/kernels/handlers.py", line 326, in write_stderr
+        self.write_message(json.dumps(msg, default=date_default))
+      File "/home/remy/anaconda3/lib/python3.8/site-packages/tornado/websocket.py", line 339, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-54216' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/remy/anaconda3/lib/python3.8/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/remy/anaconda3/lib/python3.8/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/remy/anaconda3/lib/python3.8/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 10:56:03.629 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 10:56:03.648 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 10:56:03.660 LabApp] Restoring connection for f9d5a045-03c4-488a-ac2a-4226f4fb743c:543f37d3-5ebd-4999-a727-2c834dbf16e6
+[I 10:56:06.528 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 10:56:06.655 LabApp] Saving file at /paper/Burgers/random.ipynb
+[W 10:56:06.672 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[I 10:56:07.988 LabApp] Restoring connection for ce85af72-f553-4537-87c4-123a6e084ca9:26b33073-027e-421e-a663-14f3c8ca3ca4
+[I 10:56:07.988 LabApp] Replaying 5058 buffered messages
+[W 10:56:09.052 LabApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 10:56:11.895 LabApp] iopub messages resumed
+[W 10:56:24.979 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[W 10:56:46.956 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[W 10:57:10.171 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[W 10:57:47.255 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[W 10:58:30.337 LabApp] Replacing stale connection: 1324981a-9a40-43bd-9bd8-9b3c162bf219:81aedfff-b82e-4cba-95de-5008725f206d
+[I 11:47:07.773 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 11:47:09.964 LabApp] Starting buffering for f9d5a045-03c4-488a-ac2a-4226f4fb743c:543f37d3-5ebd-4999-a727-2c834dbf16e6
+[I 11:47:14.225 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 11:47:14.275 LabApp] Starting buffering for ce85af72-f553-4537-87c4-123a6e084ca9:26b33073-027e-421e-a663-14f3c8ca3ca4
+[I 11:50:54.539 LabApp] 302 GET /lab? (127.0.0.1) 0.35ms
+[I 11:51:18.677 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 0.65ms
+[I 11:51:20.655 LabApp] Build is up to date
+[I 11:51:24.340 LabApp] Kernel shutdown: 63622c9a-76df-418e-9e99-ea17d6e2ae70
+[W 11:51:24.573 LabApp] 404 DELETE /api/sessions/b318ab11-0153-4cef-85fa-fabcd210d008?1606218683681 (127.0.0.1): Session not found: session_id='b318ab11-0153-4cef-85fa-fabcd210d008'
+[W 11:51:24.573 LabApp] Session not found: session_id='b318ab11-0153-4cef-85fa-fabcd210d008'
+[W 11:51:24.573 LabApp] 404 DELETE /api/sessions/b318ab11-0153-4cef-85fa-fabcd210d008?1606218683681 (127.0.0.1) 1.08ms referer=http://localhost:8889/lab?
+[I 11:51:24.621 LabApp] Starting buffering for f9d5a045-03c4-488a-ac2a-4226f4fb743c:75a5c4ff-e3f1-49f7-b347-a42a6e2982e4
+[I 11:51:24.777 LabApp] Kernel shutdown: ce85af72-f553-4537-87c4-123a6e084ca9
+[W 11:51:25.280 LabApp] 404 DELETE /api/sessions/1da5064b-8f19-4f97-b711-b8af1dcf4cf7?1606218684300 (127.0.0.1): Session not found: session_id='1da5064b-8f19-4f97-b711-b8af1dcf4cf7'
+[W 11:51:25.280 LabApp] Session not found: session_id='1da5064b-8f19-4f97-b711-b8af1dcf4cf7'
+[W 11:51:25.280 LabApp] 404 DELETE /api/sessions/1da5064b-8f19-4f97-b711-b8af1dcf4cf7?1606218684300 (127.0.0.1) 0.95ms referer=http://localhost:8889/lab?
+[I 11:51:26.133 LabApp] Kernel shutdown: 1324981a-9a40-43bd-9bd8-9b3c162bf219
+[W 11:51:31.237 LabApp] 404 DELETE /api/sessions/d6f876ca-b3fe-4846-89a0-8d0c899d0db6?1606218688338 (127.0.0.1): Session not found: session_id='d6f876ca-b3fe-4846-89a0-8d0c899d0db6'
+[W 11:51:31.237 LabApp] Session not found: session_id='d6f876ca-b3fe-4846-89a0-8d0c899d0db6'
+[W 11:51:31.237 LabApp] 404 DELETE /api/sessions/d6f876ca-b3fe-4846-89a0-8d0c899d0db6?1606218688338 (127.0.0.1) 10.37ms referer=http://localhost:8889/lab?
+[W 11:51:31.238 LabApp] 404 DELETE /api/sessions/d6f876ca-b3fe-4846-89a0-8d0c899d0db6?1606218689148 (127.0.0.1): Session not found: session_id='d6f876ca-b3fe-4846-89a0-8d0c899d0db6'
+[W 11:51:31.238 LabApp] Session not found: session_id='d6f876ca-b3fe-4846-89a0-8d0c899d0db6'
+[W 11:51:31.238 LabApp] 404 DELETE /api/sessions/d6f876ca-b3fe-4846-89a0-8d0c899d0db6?1606218689148 (127.0.0.1) 10.40ms referer=http://localhost:8889/lab?
+[W 11:51:42.944 LabApp] Notebook paper/Cable_equation/Paper/paper_analysis.ipynb is not trusted
+[I 11:51:43.618 LabApp] Kernel started: c34a807f-a31c-46e0-9d3d-57d92529af32, name: python3
+[I 11:51:59.728 LabApp] Copying paper/Cable_equation/Paper/paper_analysis.ipynb to /paper/Burgers
+[W 11:51:59.741 LabApp] Notebook paper/Cable_equation/Paper/paper_analysis.ipynb is not trusted
+[W 11:51:59.746 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 11:52:05.867 LabApp] Starting buffering for c34a807f-a31c-46e0-9d3d-57d92529af32:43d314dd-27b7-4bb1-809e-122578ec40ee
+[I 11:52:09.100 LabApp] Kernel shutdown: c34a807f-a31c-46e0-9d3d-57d92529af32
+[W 11:52:11.316 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 11:52:14.439 LabApp] Kernel started: 04a6637d-0bd3-432e-8bc6-82a402d5b09c, name: python3
+[I 11:54:12.582 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 11:54:12.582 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[W 11:54:16.943 LabApp] Notebook paper/Advection_diffusion/Paper_experimental_data/Analysis.ipynb is not trusted
+[I 11:54:17.995 LabApp] Kernel started: eba11562-1674-42ef-8039-6264a248422e, name: python3
+[I 11:56:12.779 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 11:56:12.779 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 11:56:17.750 LabApp] Saving file at /paper/Advection_diffusion/Paper_experimental_data/Analysis.ipynb
+[W 11:56:17.750 LabApp] Notebook paper/Advection_diffusion/Paper_experimental_data/Analysis.ipynb is not trusted
+[I 11:58:12.830 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 11:58:12.830 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 12:02:13.398 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 12:02:13.398 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 12:04:13.463 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 12:04:13.463 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 12:09:34.930 LabApp] Kernel started: 1e8f3ea1-addd-4d7d-9a96-16f0ae6d8756, name: python3
+[I 12:10:13.544 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 12:10:13.544 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 12:10:33.631 LabApp] Kernel restarted: 1e8f3ea1-addd-4d7d-9a96-16f0ae6d8756
+[I 12:11:34.820 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:13:34.894 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:15:34.942 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:17:35.001 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:19:35.052 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:21:35.098 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:23:35.206 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:25:35.256 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:27:35.310 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:28:01.507 LabApp] Kernel interrupted: 1e8f3ea1-addd-4d7d-9a96-16f0ae6d8756
+[I 12:29:35.357 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:31:35.401 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:33:35.453 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:35:35.496 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:37:35.546 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:39:35.614 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:41:35.668 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:43:35.714 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:45:35.766 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:47:35.925 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:49:35.968 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:51:36.013 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[W 12:51:53.033 LabApp] delete /paper/Burgers/runs/grid18
+[I 12:53:31.393 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 12:53:36.189 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:55:31.445 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 12:55:36.229 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:57:36.273 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 12:59:36.437 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:01:36.488 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:03:36.532 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:05:36.577 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:07:36.625 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:09:36.669 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 13:29:31.587 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:31:31.771 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:33:31.823 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:35:31.885 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:37:32.091 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:39:32.149 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:43:32.393 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:45:32.449 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:46:11.566 LabApp] Kernel started: d4cd870e-a06a-497f-aa44-7383e5bde4e2, name: python3
+[I 13:47:32.511 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:48:12.135 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:49:32.582 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:50:12.216 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:51:32.632 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:52:12.275 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:53:32.700 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:54:12.336 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:55:32.771 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:56:12.384 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:57:32.841 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:58:12.446 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 13:59:32.918 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 13:59:37.626 LabApp] Kernel interrupted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 14:00:12.492 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:01:32.971 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[W 14:01:47.400 LabApp] delete /paper/Burgers/runs/testje
+[I 14:02:12.572 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:03:33.031 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+
+Intel MKL ERROR: Parameter 7 was incorrect on entry to STRTRS.
+[I 14:04:12.636 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:04:16.220 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 14:04:22.405 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[W 14:04:35.122 LabApp] delete /paper/Burgers/runs/testje
+[I 14:05:33.105 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 14:06:12.739 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:08:12.796 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:10:12.841 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:12:12.890 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:14:12.939 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:16:12.982 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:18:13.037 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:20:13.086 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:22:13.136 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:24:13.188 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:26:13.236 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:28:13.299 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:30:13.346 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:32:13.470 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:34:13.519 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:36:14.536 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:38:14.689 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:40:15.643 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:42:15.717 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:44:15.759 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:46:15.804 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:48:15.852 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:50:15.910 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 14:55:35.648 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 14:57:36.604 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 14:59:37.535 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:01:37.731 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:03:37.911 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:05:37.968 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:07:38.055 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:08:06.739 LabApp] Kernel interrupted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 15:08:20.039 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 15:09:38.130 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:11:38.198 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:13:38.271 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:17:38.779 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:43:40.515 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:45:40.578 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:46:02.302 LabApp] Kernel interrupted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[W 15:46:08.163 LabApp] delete /paper/Burgers/runs/testje
+[W 15:46:08.164 LabApp] delete /paper/Burgers/runs/testje_b
+[I 15:46:21.736 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 15:47:40.641 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:49:40.705 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:51:40.783 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:53:40.844 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:55:40.899 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:57:40.959 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 15:59:41.036 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:01:41.113 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:03:41.183 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:05:41.261 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:07:41.328 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:09:41.396 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:11:41.469 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:13:41.556 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:15:41.619 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:17:41.697 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:19:41.778 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:21:41.827 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:23:41.887 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:25:41.948 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:27:42.072 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:29:42.147 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:31:42.200 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:33:42.268 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:35:42.351 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:37:42.412 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:42:49.973 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 16:43:42.479 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 16:45:42.544 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:01:13.605 LabApp] Starting buffering for eba11562-1674-42ef-8039-6264a248422e:41b7825c-6c75-4ab3-89cb-29c11b42922d
+[W 17:01:25.814 LabApp] Notebook paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb is not trusted
+[I 17:01:27.325 LabApp] Kernel started: 077c44ec-f493-4809-a78d-1646865f994e, name: python3
+[I 17:01:42.648 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:03:26.729 LabApp] Saving file at /paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb
+[W 17:03:26.730 LabApp] Notebook paper/Cable_equation/old/Theoretical/Theoretical_10.ipynb is not trusted
+[I 17:03:42.724 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:05:42.822 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:07:42.895 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:09:42.976 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:11:43.052 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:13:43.128 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:15:43.201 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:17:43.273 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:19:43.344 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:21:43.420 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:28:50.116 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[W 17:29:10.992 LabApp] delete /paper/Burgers/runs/testje_b
+[W 17:29:10.993 LabApp] delete /paper/Burgers/runs/testje_c
+[I 17:29:43.518 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:31:43.588 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:33:43.673 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:35:43.829 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:37:44.701 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:39:45.684 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:41:46.805 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:43:47.735 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:45:48.882 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:47:49.838 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:49:50.747 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:51:51.772 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 17:53:52.695 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:03:17.137 LabApp] Kernel interrupted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[W 18:03:23.869 LabApp] delete /paper/Burgers/runs/testje_b
+[I 18:03:55.762 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:05:55.825 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:07:56.717 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:09:56.773 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:11:56.840 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:13:56.961 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:15:57.012 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:17:57.071 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:38:09.635 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:40:07.651 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 18:40:09.712 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:41:05.729 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:41:08.444 LabApp] Starting buffering for 077c44ec-f493-4809-a78d-1646865f994e:e346e6c0-c3b8-47c0-aa29-503b620e25ff
+[I 18:41:10.005 LabApp] Starting buffering for 1e8f3ea1-addd-4d7d-9a96-16f0ae6d8756:2547ffb8-f56a-42ea-a634-721e8d26b3b5
+[I 18:41:11.224 LabApp] Starting buffering for d4cd870e-a06a-497f-aa44-7383e5bde4e2:62d96f02-23ed-434c-84ac-f925baf61363
+[I 18:41:12.262 LabApp] Starting buffering for 04a6637d-0bd3-432e-8bc6-82a402d5b09c:eaf1e08e-d1cc-4f34-ba14-71b5c805e259
+[I 18:41:12.800 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 18:41:22.440 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[W 18:43:31.244 LabApp] WebSocket ping timeout after 119995 ms.
+[W 18:43:31.402 LabApp] zmq message arrived on closed channel
+[W 18:43:31.621 LabApp] zmq message arrived on closed channel
+[W 18:43:31.843 LabApp] zmq message arrived on closed channel
+[W 18:43:32.064 LabApp] zmq message arrived on closed channel
+[W 18:43:32.285 LabApp] zmq message arrived on closed channel
+[W 18:43:32.510 LabApp] zmq message arrived on closed channel
+[W 18:43:32.732 LabApp] zmq message arrived on closed channel
+[W 18:43:32.956 LabApp] zmq message arrived on closed channel
+[W 18:43:33.179 LabApp] zmq message arrived on closed channel
+[W 18:43:33.399 LabApp] zmq message arrived on closed channel
+[W 18:43:33.619 LabApp] zmq message arrived on closed channel
+[W 18:43:33.841 LabApp] zmq message arrived on closed channel
+[W 18:43:34.064 LabApp] zmq message arrived on closed channel
+[W 18:43:34.283 LabApp] zmq message arrived on closed channel
+[W 18:43:34.508 LabApp] zmq message arrived on closed channel
+[W 18:43:34.731 LabApp] zmq message arrived on closed channel
+[W 18:43:34.952 LabApp] zmq message arrived on closed channel
+[W 18:43:35.174 LabApp] zmq message arrived on closed channel
+[W 18:43:35.394 LabApp] zmq message arrived on closed channel
+[W 18:43:35.614 LabApp] zmq message arrived on closed channel
+[W 18:43:35.833 LabApp] zmq message arrived on closed channel
+[W 18:43:36.058 LabApp] zmq message arrived on closed channel
+[I 18:43:36.245 LabApp] Starting buffering for f9d5a045-03c4-488a-ac2a-4226f4fb743c:d3f607e6-8407-4cb4-8429-bc74b7e98265
+[W 21:16:23.092 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 21:16:26.253 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:18:23.334 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 21:18:23.334 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 21:18:26.324 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:18:47.243 LabApp] Kernel restarted: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 21:18:57.457 LabApp] Discarding 13602 buffered messages for f9d5a045-03c4-488a-ac2a-4226f4fb743c:d3f607e6-8407-4cb4-8429-bc74b7e98265
+[I 21:18:57.463 LabApp] Kernel shutdown: f9d5a045-03c4-488a-ac2a-4226f4fb743c
+[I 21:19:01.615 LabApp] Kernel started: 1c8fde76-f882-4f4c-880d-20348447186f, name: python3
+[I 21:20:26.369 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:22:26.418 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:24:26.465 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:26:26.515 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:28:26.566 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:30:27.431 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:32:28.434 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:34:28.571 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:36:29.447 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:38:30.443 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:40:31.394 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:42:32.398 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:44:32.540 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:46:33.492 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:48:34.410 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:50:34.502 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:52:35.619 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:54:36.405 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 21:55:24.360 LabApp] Starting buffering for 04a6637d-0bd3-432e-8bc6-82a402d5b09c:a79a0937-d9a8-454f-ad33-546726b204ae
+[I 21:55:24.360 LabApp] Starting buffering for 1c8fde76-f882-4f4c-880d-20348447186f:741b696f-be42-47ef-918f-501d188502af
+[I 21:55:24.704 LabApp] Restoring connection for 1c8fde76-f882-4f4c-880d-20348447186f:741b696f-be42-47ef-918f-501d188502af
+[I 21:55:24.704 LabApp] Replaying 1 buffered messages
+[I 21:55:24.842 LabApp] Restoring connection for 04a6637d-0bd3-432e-8bc6-82a402d5b09c:a79a0937-d9a8-454f-ad33-546726b204ae
+[W 21:56:54.704 LabApp] WebSocket ping timeout after 90000 ms.
+[W 21:56:54.843 LabApp] WebSocket ping timeout after 90000 ms.
+[W 21:56:55.142 LabApp] zmq message arrived on closed channel
+[W 21:56:55.611 LabApp] zmq message arrived on closed channel
+[W 21:56:56.071 LabApp] zmq message arrived on closed channel
+[W 21:56:56.532 LabApp] zmq message arrived on closed channel
+[W 21:56:57.006 LabApp] zmq message arrived on closed channel
+[W 21:56:57.466 LabApp] zmq message arrived on closed channel
+[W 21:56:57.931 LabApp] zmq message arrived on closed channel
+[W 21:56:58.392 LabApp] zmq message arrived on closed channel
+[W 21:56:58.864 LabApp] zmq message arrived on closed channel
+[W 21:56:59.325 LabApp] zmq message arrived on closed channel
+[I 21:56:59.706 LabApp] Starting buffering for 1c8fde76-f882-4f4c-880d-20348447186f:741b696f-be42-47ef-918f-501d188502af
+[I 21:56:59.844 LabApp] Starting buffering for 04a6637d-0bd3-432e-8bc6-82a402d5b09c:a79a0937-d9a8-454f-ad33-546726b204ae
+[I 06:09:28.806 LabApp] Uploading file to /paper/Burgers/code.py
+[I 06:09:28.922 LabApp] Uploading file to /paper/Burgers/plot.ipynb
+[I 06:09:38.896 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[W 06:10:10.499 LabApp] Notebook paper/Burgers/plot.ipynb is not trusted
+[I 06:10:11.749 LabApp] Kernel started: 8b9b5975-5ae6-4bb1-b4e6-c9e6865b6074, name: python3
+[I 06:12:11.388 LabApp] Saving file at /paper/Burgers/plot.ipynb
+[W 06:12:11.389 LabApp] Notebook paper/Burgers/plot.ipynb is not trusted
+[I 06:15:24.221 LabApp] Kernel restarted: 1c8fde76-f882-4f4c-880d-20348447186f
+[I 06:15:38.963 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 06:15:50.912 LabApp] Discarding 721 buffered messages for 1c8fde76-f882-4f4c-880d-20348447186f:741b696f-be42-47ef-918f-501d188502af
+[I 06:15:50.913 LabApp] Kernel shutdown: 1c8fde76-f882-4f4c-880d-20348447186f
+[I 06:15:54.229 LabApp] Kernel started: 2423f37d-7a91-460b-b7bc-a619f1ca85e2, name: python3
+[I 06:17:39.013 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 06:19:39.062 LabApp] Saving file at /paper/Burgers/random_grid.ipynb
+[I 06:20:19.792 LabApp] Kernel shutdown: 04a6637d-0bd3-432e-8bc6-82a402d5b09c
+[I 06:20:23.234 LabApp] Kernel started: 1867e16a-c201-4c74-823b-e9b316a2cd57, name: python3
+[I 06:21:38.927 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 06:21:38.927 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 06:22:43.063 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:24:43.109 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:26:43.160 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:28:43.208 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:30:43.929 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:32:44.037 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:34:44.879 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:36:47.680 LabApp] Saving file at /paper/Burgers/random.ipynb
+[I 06:55:44.758 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 06:55:44.758 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 06:57:44.824 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 06:57:44.824 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 06:58:48.435 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:00:48.485 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:02:48.529 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:03:44.885 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:03:44.885 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:04:48.577 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:05:08.969 LabApp] Kernel interrupted: 1867e16a-c201-4c74-823b-e9b316a2cd57
+[I 07:05:44.927 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:05:44.928 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:06:48.624 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:07:44.976 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:07:44.976 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:08:48.669 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:09:45.048 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:09:45.048 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:10:48.716 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:11:45.149 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:11:45.150 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:12:48.759 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:13:45.208 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:13:45.208 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:14:48.800 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:15:45.277 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:15:45.278 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:16:48.846 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:17:45.329 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:17:45.329 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:18:48.890 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:20:48.935 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:22:48.979 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:23:16.031 LabApp] Kernel started: 15259fc1-0501-4f17-989d-111dddd97275, name: python3
+[I 07:24:49.047 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:25:11.611 LabApp] Kernel restarted: 15259fc1-0501-4f17-989d-111dddd97275
+[I 07:25:15.933 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:26:49.113 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:27:15.980 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:28:49.158 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:29:16.025 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:30:49.204 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:31:16.066 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:32:49.252 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:33:16.113 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:34:49.304 LabApp] Saving file at /paper/Burgers/grids.ipynb
+[I 07:35:16.170 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:37:16.224 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:39:16.932 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:39:47.003 LabApp] Saving file at /paper/Burgers/paper_analysis.ipynb
+[W 07:39:47.004 LabApp] Notebook paper/Burgers/paper_analysis.ipynb is not trusted
+[I 07:41:16.998 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:43:17.043 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:45:17.183 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:47:17.250 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:49:17.307 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:51:17.355 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:53:17.411 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:55:17.459 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:57:17.505 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 07:58:23.665 LabApp] Creating new directory in /paper/Advection_diffusion/AD_artificial
+[I 07:58:37.897 LabApp] Copying paper/Advection_diffusion/AD_artificial/Loop_noise_0_17.ipynb to /paper/Advection_diffusion/AD_artificial/sampling
+[W 07:58:37.900 LabApp] Notebook paper/Advection_diffusion/AD_artificial/Loop_noise_0_17.ipynb is not trusted
+[I 07:58:40.454 LabApp] Kernel started: 6f1637ca-0577-4c52-9d9d-2e35916d37bb, name: python3
+[I 07:59:17.545 LabApp] Saving file at /paper/Burgers/random_space.ipynb
+[I 08:00:40.343 LabApp] Saving file at /paper/Advection_diffusion/AD_artificial/sampling/Loop_noise_0_17.ipynb
+                                                                         
