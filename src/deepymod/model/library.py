@@ -165,3 +165,56 @@ class Library2D(Library):
         theta = torch.matmul(u[:, :, None], du[:, None, :]).view(samples, -1)
 
         return [u_t], [theta]
+
+class Library2D_third(Library):
+    """[summary]
+
+    Args:
+        Library ([type]): [description]
+    """
+    def __init__(self, poly_order: int) -> None:
+        super().__init__()
+        self.poly_order = poly_order
+
+    def library(self, input: Tuple[torch.Tensor, torch.Tensor]) -> Tuple[TensorList, TensorList]:
+        """[summary]
+
+        Args:
+            input (Tuple[torch.Tensor, torch.Tensor]): [description]
+
+        Returns:
+            Tuple[TensorList, TensorList]: [description]
+        """
+
+        prediction, data = input
+        # Polynomial
+
+        u = torch.ones_like(prediction)
+        for order in np.arange(1, self.poly_order+1):
+            u = torch.cat((u, u[:, order-1:order] * prediction), dim=1)
+
+        # Gradients
+        du = grad(prediction, data, grad_outputs=torch.ones_like(prediction), create_graph=True)[0]
+        u_t = du[:, 0:1]
+        u_x = du[:, 1:2]
+        u_y = du[:, 2:3]
+        du2 = grad(u_x, data, grad_outputs=torch.ones_like(prediction), create_graph=True)[0]
+        u_xx = du2[:, 1:2]
+        u_xy = du2[:, 2:3]
+        u_yy = grad(u_y, data, grad_outputs=torch.ones_like(prediction), create_graph=True)[0][:, 2:3]
+        
+        du3 = grad(u_xx, data, grad_outputs=torch.ones_like(prediction), create_graph=True)[0]
+        u_xxx = du3[:, 1:2]
+        u_xxy = du3[:, 2:3]
+        
+        du4 = grad(u_yy, data, grad_outputs=torch.ones_like(prediction), create_graph=True)[0]
+        u_yyx = du3[:, 1:2]  
+        u_yyy = du3[:, 2:3]  
+        
+        du = torch.cat((torch.ones_like(u_x), u_x, u_y, u_xx, u_yy, u_xy, u_xxx, u_xxy, u_yyx, u_yyy), dim=1)
+
+        samples = du.shape[0]
+        # Bringing it together
+        theta = torch.matmul(u[:, :, None], du[:, None, :]).view(samples, -1)
+
+        return [u_t], [theta]
